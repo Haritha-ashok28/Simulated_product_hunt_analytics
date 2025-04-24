@@ -1,0 +1,1001 @@
+product_id,product_name,launch_datetime,category_id,description_word_count,has_video,screenshot_count,domain_type,pricing_model,featured,total_upvotes,total_comments,total_followers,total_views,success_score,success_tier,launch_date,launch_day,launch_hour,launch_month,launch_year,launch_quarter
+1,AppCloud,2025-04-13 19:32:34,2,109,True,2,.co,Free Trial,False,4,0,0,88,2.4,High,2025-04-13,Sunday,19,4,2025,2
+2,Logic,2025-01-21 19:32:34,10,152,False,5,.co,Free,False,5,0,0,97,3.0,High,2025-01-21,Tuesday,19,1,2025,1
+3,SuperSync,2023-06-30 19:32:34,12,104,False,3,.io,Free Trial,False,3,0,0,57,1.7999999999999998,Medium,2023-06-30,Friday,19,6,2023,2
+4,MegaAI,2023-05-31 19:32:34,4,88,False,10,.app,Freemium,True,23,27,0,458,21.9,Viral,2023-05-31,Wednesday,19,5,2023,2
+5,BotWave,2024-11-06 19:32:34,6,113,False,4,.co,Paid,False,3,1,0,55,2.0999999999999996,High,2024-11-06,Wednesday,19,11,2024,4
+6,MetaVision,2024-04-02 19:32:34,12,105,False,10,.co,Paid,False,9,5,5,174,7.3999999999999995,Viral,2024-04-02,Tuesday,19,4,2024,2
+7,DataScript,2023-05-26 19:32:34,2,52,True,4,.app,Free,False,3,1,0,58,2.0999999999999996,High,2023-05-26,Friday,19,5,2023,2
+8,App,2025-01-12 19:32:34,7,99,True,6,.com,Freemium,False,6,2,2,131,4.3999999999999995,Viral,2025-01-12,Sunday,19,1,2025,1
+9,NextMeta,2025-01-10 19:32:34,3,96,False,10,.co,Free Trial,False,0,0,0,0,0.0,Low,2025-01-10,Friday,19,1,2025,1
+10,NextSync,2025-03-24 19:32:34,3,83,False,4,.ai,Freemium,False,3,2,0,59,2.4,High,2025-03-24,Monday,19,3,2025,1
+11,PixelSpark,2023-07-04 19:32:34,11,131,False,10,.tech,Open Source,False,4,2,0,79,3.0,High,2023-07-04,Tuesday,19,7,2023,3
+12,Hub,2023-05-14 19:32:34,2,76,False,2,.tech,Freemium,False,0,0,0,0,0.0,Low,2023-05-14,Sunday,19,5,2023,2
+13,Mind,2024-08-01 19:32:34,11,113,True,9,.co,Free,False,7,6,0,141,6.0,Viral,2024-08-01,Thursday,19,8,2024,3
+14,ConnectPulse,2024-03-12 19:32:34,8,95,False,4,.com,Freemium,True,1,0,0,17,0.6,Low,2024-03-12,Tuesday,19,3,2024,1
+15,QuickWave,2023-12-06 19:32:34,6,103,False,6,other,Open Source,False,3,0,0,57,1.7999999999999998,Medium,2023-12-06,Wednesday,19,12,2023,4
+16,LogicSmart,2023-09-16 19:32:34,1,112,False,4,.com,Freemium,False,5,6,0,87,4.8,Viral,2023-09-16,Saturday,19,9,2023,3
+17,InsightSync,2024-10-12 19:32:34,12,60,False,4,.io,Free Trial,False,0,0,0,0,0.0,Low,2024-10-12,Saturday,19,10,2024,4
+18,HyperLogic,2025-01-03 19:32:34,1,105,True,8,.ai,Free Trial,False,0,0,0,0,0.0,Low,2025-01-03,Friday,19,1,2025,1
+19,HyperCloud,2024-10-11 19:32:34,7,168,True,2,.com,Freemium,False,0,0,0,0,0.0,Low,2024-10-11,Friday,19,10,2024,4
+20,ConnectData,2023-09-01 19:32:34,8,53,False,5,.app,Free,False,2,2,1,44,1.9,Medium,2023-09-01,Friday,19,9,2023,3
+21,DevMind,2024-01-12 19:32:34,5,98,False,0,.ai,Paid,False,3,0,0,51,1.7999999999999998,Medium,2024-01-12,Friday,19,1,2024,1
+22,VisionSync,2024-01-26 19:32:34,12,133,False,9,.tech,Freemium,False,1,0,0,19,0.6,Low,2024-01-26,Friday,19,1,2024,1
+23,StreamSpark,2024-08-08 19:32:34,11,109,True,4,.ai,Paid,False,6,0,0,110,3.5999999999999996,High,2024-08-08,Thursday,19,8,2024,3
+24,DataAI,2025-04-05 19:32:34,5,120,False,7,.app,Freemium,False,5,4,0,92,4.2,High,2025-04-05,Saturday,19,4,2025,2
+25,BoostInsight,2024-01-25 19:32:34,4,30,True,4,.co,Freemium,False,26,2,4,493,16.599999999999998,Viral,2024-01-25,Thursday,19,1,2024,1
+26,EasyData,2024-07-04 19:32:34,6,117,True,8,.app,Paid,False,11,0,4,210,7.0,Viral,2024-07-04,Thursday,19,7,2024,3
+27,InsightHub,2025-02-06 19:32:34,6,77,False,10,.app,Freemium,True,5,2,0,99,3.6,High,2025-02-06,Thursday,19,2,2025,1
+28,AutoMeta,2023-04-29 19:32:34,3,109,False,5,.co,Freemium,False,8,2,0,145,5.3999999999999995,Viral,2023-04-29,Saturday,19,4,2023,2
+29,HyperCloud,2024-06-05 19:32:34,9,99,True,7,.co,Freemium,False,2,2,0,32,1.7999999999999998,Medium,2024-06-05,Wednesday,19,6,2024,2
+30,MindPulse,2023-08-01 19:32:34,12,168,True,9,.co,Freemium,False,7,0,0,128,4.2,High,2023-08-01,Tuesday,19,8,2023,3
+31,NeoLogic,2024-03-21 19:32:34,11,116,False,7,.co,Freemium,False,8,2,0,170,5.3999999999999995,Viral,2024-03-21,Thursday,19,3,2024,1
+32,ScriptDeploy,2023-09-28 19:32:34,7,96,True,2,.co,Free Trial,True,6,0,0,111,3.5999999999999996,High,2023-09-28,Thursday,19,9,2023,3
+33,CloudQuick,2023-08-22 19:32:34,1,54,False,6,.app,Freemium,False,0,0,0,0,0.0,Low,2023-08-22,Tuesday,19,8,2023,3
+34,Mind,2023-10-20 19:32:34,7,103,False,6,.io,Freemium,False,4,5,0,73,3.9,High,2023-10-20,Friday,19,10,2023,4
+35,Vision,2025-01-08 19:32:34,5,124,True,9,.io,Paid,False,10,17,0,210,11.1,Viral,2025-01-08,Wednesday,19,1,2025,1
+36,Tech,2025-02-21 19:32:34,5,97,True,5,.com,Free,False,20,13,12,407,17.1,Viral,2025-02-21,Friday,19,2,2025,1
+37,InsightScript,2025-01-13 19:32:34,2,84,False,6,.io,Free,True,6,0,0,114,3.5999999999999996,High,2025-01-13,Monday,19,1,2025,1
+38,PulseDev,2024-04-08 19:32:34,4,82,False,1,.tech,Free Trial,False,5,4,4,77,4.6000000000000005,Viral,2024-04-08,Monday,19,4,2024,2
+39,FastVision,2024-05-04 19:32:34,12,116,False,8,.io,Paid,True,0,0,0,0,0.0,Low,2024-05-04,Saturday,19,5,2024,2
+40,DeepData,2023-12-08 19:32:34,6,122,False,9,.app,Freemium,False,7,0,1,137,4.3,Viral,2023-12-08,Friday,19,12,2023,4
+41,SmartMeta,2023-12-12 19:32:34,10,140,False,9,.co,Freemium,False,5,4,0,101,4.2,High,2023-12-12,Tuesday,19,12,2023,4
+42,HyperSync,2024-10-08 19:32:34,11,70,False,0,.co,Free,False,3,1,0,65,2.0999999999999996,High,2024-10-08,Tuesday,19,10,2024,4
+43,DesignWave,2024-10-13 19:32:34,7,115,False,0,other,Freemium,False,0,0,0,0,0.0,Low,2024-10-13,Sunday,19,10,2024,4
+44,Spark,2023-10-19 19:32:34,11,96,False,2,other,Freemium,False,3,2,0,59,2.4,High,2023-10-19,Thursday,19,10,2023,4
+45,CloudSync,2025-01-25 19:32:34,5,97,False,2,other,Freemium,False,1,0,0,17,0.6,Low,2025-01-25,Saturday,19,1,2025,1
+46,DeepInsight,2024-01-07 19:32:34,9,112,False,0,.app,Freemium,False,0,0,0,0,0.0,Low,2024-01-07,Sunday,19,1,2024,1
+47,ScriptSpark,2024-06-24 19:32:34,3,112,False,6,.tech,Free,True,1,1,0,24,0.8999999999999999,Medium,2024-06-24,Monday,19,6,2024,2
+48,DeepVision,2024-04-25 19:32:34,1,115,False,3,.io,Free,False,1,0,0,21,0.6,Low,2024-04-25,Thursday,19,4,2024,2
+49,SmartCode,2024-04-14 19:32:34,4,68,True,9,.app,Open Source,False,1,2,0,15,1.2,Medium,2024-04-14,Sunday,19,4,2024,2
+50,DevLogic,2024-04-05 19:32:34,9,77,False,1,.com,Freemium,False,3,0,0,53,1.7999999999999998,Medium,2024-04-05,Friday,19,4,2024,2
+51,Code,2024-02-04 19:32:34,4,144,True,9,.co,Freemium,False,4,0,0,76,2.4,High,2024-02-04,Sunday,19,2,2024,1
+52,ProVision,2023-10-21 19:32:34,2,93,True,4,other,Free,False,5,5,0,98,4.5,Viral,2023-10-21,Saturday,19,10,2023,4
+53,Quick,2025-01-31 19:32:34,10,109,True,5,.ai,Free,False,0,0,0,0,0.0,Low,2025-01-31,Friday,19,1,2025,1
+54,Insight,2025-01-20 19:32:34,5,131,False,8,.com,Paid,False,2,1,0,42,1.5,Medium,2025-01-20,Monday,19,1,2025,1
+55,SimpleMeta,2024-07-26 19:32:34,3,113,False,3,other,Freemium,False,8,0,0,165,4.8,Viral,2024-07-26,Friday,19,7,2024,3
+56,Tech,2024-11-04 19:32:34,12,116,True,1,.tech,Freemium,False,12,5,2,253,8.899999999999999,Viral,2024-11-04,Monday,19,11,2024,4
+57,QuickVision,2023-10-28 19:32:34,9,126,False,4,.com,Free,False,0,0,0,0,0.0,Low,2023-10-28,Saturday,19,10,2023,4
+58,DevDev,2024-04-22 19:32:34,4,36,False,2,.app,Paid,False,0,0,0,0,0.0,Low,2024-04-22,Monday,19,4,2024,2
+59,VisionVision,2023-04-22 19:32:34,6,85,True,1,.io,Free,True,4,0,0,82,2.4,High,2023-04-22,Saturday,19,4,2023,2
+60,HubTech,2023-12-29 19:32:34,2,114,False,0,.co,Free,False,0,0,0,0,0.0,Low,2023-12-29,Friday,19,12,2023,4
+61,SyncStream,2023-06-14 19:32:34,6,141,False,9,.tech,Freemium,False,4,0,0,94,2.4,High,2023-06-14,Wednesday,19,6,2023,2
+62,VisionFlow,2024-05-15 19:32:34,3,101,False,1,.tech,Free,False,0,0,0,0,0.0,Low,2024-05-15,Wednesday,19,5,2024,2
+63,AI,2023-12-06 19:32:34,12,74,False,5,.ai,Free,False,1,2,0,17,1.2,Medium,2023-12-06,Wednesday,19,12,2023,4
+64,SyncCloud,2025-04-04 19:32:34,12,75,False,7,.com,Freemium,False,4,6,1,71,4.299999999999999,Viral,2025-04-04,Friday,19,4,2025,2
+65,ScriptInsight,2024-09-10 19:32:34,9,126,True,2,.ai,Paid,False,1,0,0,15,0.6,Low,2024-09-10,Tuesday,19,9,2024,3
+66,UltraMind,2023-08-02 19:32:34,11,93,True,10,.io,Free Trial,False,14,11,4,278,12.1,Viral,2023-08-02,Wednesday,19,8,2023,3
+67,CodeSync,2024-10-31 19:32:34,2,99,True,8,other,Freemium,False,3,0,0,53,1.7999999999999998,Medium,2024-10-31,Thursday,19,10,2024,4
+68,Stream,2023-10-15 19:32:34,12,118,False,8,.io,Free,False,5,2,0,90,3.6,High,2023-10-15,Sunday,19,10,2023,4
+69,LogicMind,2024-06-10 19:32:34,12,30,True,1,other,Free,False,4,0,0,78,2.4,High,2024-06-10,Monday,19,6,2024,2
+70,Pulse,2023-06-13 19:32:34,9,160,True,7,.ai,Open Source,False,9,3,0,179,6.299999999999999,Viral,2023-06-13,Tuesday,19,6,2023,2
+71,FastTech,2023-07-15 19:32:34,5,78,False,9,.co,Freemium,False,5,1,0,95,3.3,High,2023-07-15,Saturday,19,7,2023,3
+72,CloudSmart,2024-03-18 19:32:34,8,107,False,10,.io,Paid,False,3,0,0,61,1.7999999999999998,Medium,2024-03-18,Monday,19,3,2024,1
+73,DesignAI,2024-03-01 19:32:34,2,48,False,4,.ai,Free,False,4,0,0,60,2.4,High,2024-03-01,Friday,19,3,2024,1
+74,Dev,2024-08-14 19:32:34,6,87,True,3,.com,Freemium,True,11,6,0,206,8.399999999999999,Viral,2024-08-14,Wednesday,19,8,2024,3
+75,RapidBot,2023-09-06 19:32:34,3,137,True,9,.ai,Free,False,13,12,1,272,11.499999999999998,Viral,2023-09-06,Wednesday,19,9,2023,3
+76,HyperPixel,2023-07-09 19:32:34,12,42,False,4,.ai,Freemium,False,3,0,0,60,1.7999999999999998,Medium,2023-07-09,Sunday,19,7,2023,3
+77,FastSync,2024-12-25 19:32:34,12,133,True,3,.app,Free Trial,False,0,0,0,0,0.0,Low,2024-12-25,Wednesday,19,12,2024,4
+78,CodeHub,2023-07-13 19:32:34,10,91,True,7,.io,Open Source,False,7,4,0,133,5.4,Viral,2023-07-13,Thursday,19,7,2023,3
+79,ConnectScript,2024-12-26 19:32:34,5,114,False,3,.co,Freemium,False,4,0,0,89,2.4,High,2024-12-26,Thursday,19,12,2024,4
+80,MetaFlow,2023-11-01 19:32:34,12,119,False,9,.co,Freemium,False,11,1,0,213,6.8999999999999995,Viral,2023-11-01,Wednesday,19,11,2023,4
+81,Wave,2024-09-17 19:32:34,8,113,False,5,.app,Free Trial,False,3,0,0,66,1.7999999999999998,Medium,2024-09-17,Tuesday,19,9,2024,3
+82,DeepFlow,2023-12-03 19:32:34,10,74,False,1,other,Paid,False,0,0,0,0,0.0,Low,2023-12-03,Sunday,19,12,2023,4
+83,ScriptMind,2024-12-31 19:32:34,1,89,False,4,.tech,Free,False,0,0,0,0,0.0,Low,2024-12-31,Tuesday,19,12,2024,4
+84,ConnectFlow,2023-07-04 19:32:34,5,56,True,5,other,Freemium,False,15,5,2,314,10.7,Viral,2023-07-04,Tuesday,19,7,2023,3
+85,VisionPulse,2025-01-10 19:32:34,3,114,False,4,.co,Free,False,0,0,0,0,0.0,Low,2025-01-10,Friday,19,1,2025,1
+86,PulseInsight,2024-03-02 19:32:34,4,151,True,1,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-03-02,Saturday,19,3,2024,1
+87,SuperLogic,2025-03-25 19:32:34,2,45,True,6,.app,Freemium,False,7,0,0,141,4.2,High,2025-03-25,Tuesday,19,3,2025,1
+88,SmartSmart,2024-01-24 19:32:34,9,77,False,3,.com,Freemium,False,0,0,0,0,0.0,Low,2024-01-24,Wednesday,19,1,2024,1
+89,Insight,2024-11-13 19:32:34,3,94,True,7,.io,Freemium,False,7,1,0,119,4.5,Viral,2024-11-13,Wednesday,19,11,2024,4
+90,NeoData,2024-02-03 19:32:34,2,105,False,6,.io,Free,False,4,0,0,81,2.4,High,2024-02-03,Saturday,19,2,2024,1
+91,CloudLogic,2024-11-19 19:32:34,10,126,True,6,.io,Freemium,False,5,0,0,98,3.0,High,2024-11-19,Tuesday,19,11,2024,4
+92,SmartPulse,2024-12-24 19:32:34,11,95,False,8,.ai,Free Trial,False,0,0,0,0,0.0,Low,2024-12-24,Tuesday,19,12,2024,4
+93,HyperBot,2024-12-02 19:32:34,9,90,False,0,.com,Paid,False,2,0,0,37,1.2,Medium,2024-12-02,Monday,19,12,2024,4
+94,HyperPixel,2024-03-02 19:32:34,7,133,True,9,.app,Freemium,False,1,0,0,24,0.6,Low,2024-03-02,Saturday,19,3,2024,1
+95,ProApp,2024-04-09 19:32:34,6,119,True,5,.app,Free Trial,True,10,4,0,190,7.2,Viral,2024-04-09,Tuesday,19,4,2024,2
+96,UltraDeploy,2024-11-15 19:32:34,1,116,False,5,.io,Free Trial,False,4,0,0,82,2.4,High,2024-11-15,Friday,19,11,2024,4
+97,DevInsight,2024-07-16 19:32:34,5,103,False,5,.com,Free,False,3,0,0,53,1.7999999999999998,Medium,2024-07-16,Tuesday,19,7,2024,3
+98,QuickTech,2024-11-19 19:32:34,12,129,False,5,.com,Free,True,18,6,0,402,12.599999999999998,Viral,2024-11-19,Tuesday,19,11,2024,4
+99,SmartConnect,2023-09-24 19:32:34,11,80,False,9,.com,Paid,False,0,0,0,0,0.0,Low,2023-09-24,Sunday,19,9,2023,3
+100,FlowMind,2024-11-19 19:32:34,11,76,False,6,.co,Free Trial,False,2,0,0,38,1.2,Medium,2024-11-19,Tuesday,19,11,2024,4
+101,FlowSpark,2024-12-19 19:32:34,3,122,False,9,.co,Open Source,False,13,6,0,252,9.6,Viral,2024-12-19,Thursday,19,12,2024,4
+102,HyperCode,2024-12-01 19:32:34,1,51,False,5,.io,Free Trial,True,2,0,0,37,1.2,Medium,2024-12-01,Sunday,19,12,2024,4
+103,PixelBot,2025-04-12 19:32:34,4,102,False,0,.com,Freemium,False,2,0,0,43,1.2,Medium,2025-04-12,Saturday,19,4,2025,2
+104,ProScript,2024-12-09 19:32:34,2,90,False,2,.tech,Freemium,False,0,0,0,0,0.0,Low,2024-12-09,Monday,19,12,2024,4
+105,Design,2024-09-18 19:32:34,2,57,False,1,.com,Free,False,5,1,0,101,3.3,High,2024-09-18,Wednesday,19,9,2024,3
+106,DataData,2024-06-29 19:32:34,3,72,False,5,.app,Free,False,3,0,0,59,1.7999999999999998,Medium,2024-06-29,Saturday,19,6,2024,2
+107,BoostFlow,2023-06-04 19:32:34,8,96,False,7,.app,Freemium,False,2,0,0,38,1.2,Medium,2023-06-04,Sunday,19,6,2023,2
+108,QuickBot,2023-09-30 19:32:34,8,131,False,2,.io,Freemium,False,1,0,0,18,0.6,Low,2023-09-30,Saturday,19,9,2023,3
+109,SmartTech,2024-11-04 19:32:34,12,80,True,9,.tech,Freemium,True,3,0,0,53,1.7999999999999998,Medium,2024-11-04,Monday,19,11,2024,4
+110,LogicDev,2024-10-23 19:32:34,7,136,True,7,.com,Paid,False,7,3,0,135,5.1,Viral,2024-10-23,Wednesday,19,10,2024,4
+111,CloudDev,2024-12-18 19:32:34,6,101,False,7,other,Free,False,9,7,1,187,7.6,Viral,2024-12-18,Wednesday,19,12,2024,4
+112,ScriptPulse,2024-01-17 19:32:34,9,139,False,4,.tech,Freemium,False,5,3,0,103,3.9,High,2024-01-17,Wednesday,19,1,2024,1
+113,Pulse,2024-10-24 19:32:34,4,81,False,7,.io,Free,False,6,9,0,118,6.299999999999999,Viral,2024-10-24,Thursday,19,10,2024,4
+114,Tech,2024-11-14 19:32:34,12,98,True,5,.app,Freemium,True,9,5,0,187,6.8999999999999995,Viral,2024-11-14,Thursday,19,11,2024,4
+115,HyperDesign,2023-08-18 19:32:34,1,111,False,4,other,Paid,False,3,4,0,61,3.0,High,2023-08-18,Friday,19,8,2023,3
+116,Pixel,2023-08-24 19:32:34,8,94,False,8,.app,Paid,False,4,0,0,85,2.4,High,2023-08-24,Thursday,19,8,2023,3
+117,Dev,2024-12-06 19:32:34,7,128,True,6,.co,Open Source,False,0,0,0,0,0.0,Low,2024-12-06,Friday,19,12,2024,4
+118,DevDev,2024-11-08 19:32:34,7,33,False,7,.io,Free,True,0,0,0,0,0.0,Low,2024-11-08,Friday,19,11,2024,4
+119,App,2024-11-10 19:32:34,3,172,False,0,.io,Freemium,False,1,1,0,24,0.8999999999999999,Medium,2024-11-10,Sunday,19,11,2024,4
+120,SuperDeploy,2024-08-26 19:32:34,4,125,False,10,.com,Freemium,False,0,0,0,0,0.0,Low,2024-08-26,Monday,19,8,2024,3
+121,Stream,2024-03-29 19:32:34,10,94,False,1,.com,Freemium,False,3,0,0,59,1.7999999999999998,Medium,2024-03-29,Friday,19,3,2024,1
+122,AI,2024-12-18 19:32:34,9,83,False,7,.co,Free Trial,False,10,0,0,182,6.0,Viral,2024-12-18,Wednesday,19,12,2024,4
+123,SmartLogic,2024-04-24 19:32:34,6,74,False,8,other,Paid,True,3,1,0,59,2.0999999999999996,High,2024-04-24,Wednesday,19,4,2024,2
+124,SparkSmart,2024-03-16 19:32:34,5,119,False,3,.ai,Free Trial,False,0,0,0,0,0.0,Low,2024-03-16,Saturday,19,3,2024,1
+125,LogicCloud,2025-02-13 19:32:34,3,129,False,9,.tech,Free,False,4,0,0,77,2.4,High,2025-02-13,Thursday,19,2,2025,1
+126,BoostData,2024-09-12 19:32:34,9,95,False,10,.ai,Free Trial,False,1,1,0,18,0.8999999999999999,Medium,2024-09-12,Thursday,19,9,2024,3
+127,Hub,2023-08-19 19:32:34,5,133,False,9,.ai,Free,False,3,0,0,51,1.7999999999999998,Medium,2023-08-19,Saturday,19,8,2023,3
+128,Cloud,2024-08-16 19:32:34,5,72,True,8,.io,Free Trial,False,7,5,1,135,5.8,Viral,2024-08-16,Friday,19,8,2024,3
+129,CodeLogic,2023-12-17 19:32:34,4,67,False,3,.tech,Freemium,False,0,0,0,0,0.0,Low,2023-12-17,Sunday,19,12,2023,4
+130,SimpleVision,2023-04-29 19:32:34,4,154,True,9,.io,Freemium,False,6,0,0,117,3.5999999999999996,High,2023-04-29,Saturday,19,4,2023,2
+131,SuperPro,2024-08-01 19:32:34,12,117,False,9,.tech,Freemium,False,4,0,0,70,2.4,High,2024-08-01,Thursday,19,8,2024,3
+132,DesignAI,2024-01-20 19:32:34,1,141,False,9,.app,Free Trial,False,2,0,0,40,1.2,Medium,2024-01-20,Saturday,19,1,2024,1
+133,VisionVision,2024-07-24 19:32:34,7,74,True,8,.io,Free,False,3,0,0,58,1.7999999999999998,Medium,2024-07-24,Wednesday,19,7,2024,3
+134,ConnectConnect,2023-06-03 19:32:34,9,72,False,10,.io,Freemium,False,1,0,0,15,0.6,Low,2023-06-03,Saturday,19,6,2023,2
+135,Vision,2023-05-24 19:32:34,3,89,True,6,.io,Free Trial,False,6,5,0,138,5.1,Viral,2023-05-24,Wednesday,19,5,2023,2
+136,SmartBot,2025-04-01 19:32:34,12,75,False,1,other,Freemium,False,6,5,0,119,5.1,Viral,2025-04-01,Tuesday,19,4,2025,2
+137,NeoDesign,2025-01-27 19:32:34,2,121,False,8,.co,Free,False,4,4,0,85,3.5999999999999996,High,2025-01-27,Monday,19,1,2025,1
+138,FastCode,2025-03-25 19:32:34,3,77,False,3,.io,Freemium,False,0,0,0,0,0.0,Low,2025-03-25,Tuesday,19,3,2025,1
+139,CodeCloud,2024-06-20 19:32:34,1,64,True,7,.com,Freemium,False,7,0,0,152,4.2,High,2024-06-20,Thursday,19,6,2024,2
+140,Insight,2024-07-06 19:32:34,6,104,True,6,.com,Free Trial,False,1,0,0,16,0.6,Low,2024-07-06,Saturday,19,7,2024,3
+141,AI,2024-03-24 19:32:34,11,61,False,6,.tech,Paid,True,2,0,0,39,1.2,Medium,2024-03-24,Sunday,19,3,2024,1
+142,CloudPulse,2024-06-20 19:32:34,11,46,False,7,.app,Freemium,False,1,0,0,22,0.6,Low,2024-06-20,Thursday,19,6,2024,2
+143,ProPixel,2024-05-15 19:32:34,7,103,False,0,.co,Open Source,False,6,2,0,125,4.199999999999999,High,2024-05-15,Wednesday,19,5,2024,2
+144,DeployStream,2023-12-21 19:32:34,11,47,False,4,other,Freemium,False,3,0,0,50,1.7999999999999998,Medium,2023-12-21,Thursday,19,12,2023,4
+145,DesignPixel,2023-07-02 19:32:34,11,123,False,1,.tech,Free,False,2,0,0,46,1.2,Medium,2023-07-02,Sunday,19,7,2023,3
+146,ConnectFlow,2024-05-10 19:32:34,2,58,False,1,.com,Free,False,1,0,0,19,0.6,Low,2024-05-10,Friday,19,5,2024,2
+147,DevDesign,2024-07-10 19:32:34,8,32,False,0,.co,Freemium,False,5,0,0,91,3.0,High,2024-07-10,Wednesday,19,7,2024,3
+148,SuperSmart,2024-12-03 19:32:34,6,91,True,4,.co,Free,False,1,0,0,21,0.6,Low,2024-12-03,Tuesday,19,12,2024,4
+149,AppPro,2023-09-25 19:32:34,4,104,True,1,.app,Free Trial,False,0,0,0,0,0.0,Low,2023-09-25,Monday,19,9,2023,3
+150,ConnectMind,2024-02-01 19:32:34,5,114,False,3,.co,Paid,False,1,0,0,20,0.6,Low,2024-02-01,Thursday,19,2,2024,1
+151,Meta,2023-06-02 19:32:34,8,105,True,2,.io,Free,False,7,4,0,151,5.4,Viral,2023-06-02,Friday,19,6,2023,2
+152,PixelTech,2023-07-28 19:32:34,3,68,False,2,.co,Freemium,False,0,0,0,0,0.0,Low,2023-07-28,Friday,19,7,2023,3
+153,QuickDesign,2023-11-04 19:32:34,3,121,False,1,.app,Paid,False,3,3,0,64,2.6999999999999997,High,2023-11-04,Saturday,19,11,2023,4
+154,NeoConnect,2023-07-19 19:32:34,11,128,True,5,.tech,Free Trial,False,4,7,0,82,4.5,Viral,2023-07-19,Wednesday,19,7,2023,3
+155,Hub,2023-10-02 19:32:34,4,63,True,1,.app,Free Trial,False,4,0,0,87,2.4,High,2023-10-02,Monday,19,10,2023,4
+156,AIScript,2023-05-09 19:32:34,1,94,False,7,other,Freemium,False,7,3,0,124,5.1,Viral,2023-05-09,Tuesday,19,5,2023,2
+157,EasyConnect,2024-11-22 19:32:34,9,91,False,7,.app,Paid,True,6,4,1,119,4.8999999999999995,Viral,2024-11-22,Friday,19,11,2024,4
+158,AutoLogic,2024-02-27 19:32:34,8,106,False,4,.com,Freemium,False,6,4,0,110,4.8,Viral,2024-02-27,Tuesday,19,2,2024,1
+159,SparkDeploy,2024-03-28 19:32:34,8,93,False,9,.io,Freemium,False,4,0,0,78,2.4,High,2024-03-28,Thursday,19,3,2024,1
+160,SimpleHub,2023-05-03 19:32:34,10,97,False,6,.com,Free,False,14,20,1,285,14.5,Viral,2023-05-03,Wednesday,19,5,2023,2
+161,AppConnect,2024-01-07 19:32:34,6,119,False,3,.tech,Free,False,4,0,2,71,2.6,High,2024-01-07,Sunday,19,1,2024,1
+162,AutoSync,2024-04-28 19:32:34,7,66,False,0,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-04-28,Sunday,19,4,2024,2
+163,EasyData,2023-10-07 19:32:34,6,122,False,10,.tech,Free,False,2,0,0,40,1.2,Medium,2023-10-07,Saturday,19,10,2023,4
+164,ProBot,2024-12-24 19:32:34,9,134,False,1,.io,Free,True,5,4,0,108,4.2,High,2024-12-24,Tuesday,19,12,2024,4
+165,LogicSmart,2024-10-16 19:32:34,3,149,True,9,.co,Paid,False,1,0,0,23,0.6,Low,2024-10-16,Wednesday,19,10,2024,4
+166,Tech,2024-05-07 19:32:34,3,35,False,9,.app,Free,False,9,0,0,187,5.3999999999999995,Viral,2024-05-07,Tuesday,19,5,2024,2
+167,QuickMeta,2024-06-03 19:32:34,3,94,False,3,.ai,Freemium,False,3,0,0,60,1.7999999999999998,Medium,2024-06-03,Monday,19,6,2024,2
+168,ProMind,2024-01-22 19:32:34,10,41,True,0,.io,Freemium,False,0,0,0,0,0.0,Low,2024-01-22,Monday,19,1,2024,1
+169,BotQuick,2024-08-06 19:32:34,3,30,True,7,.com,Open Source,False,5,10,0,98,6.0,Viral,2024-08-06,Tuesday,19,8,2024,3
+170,SuperDev,2023-09-22 19:32:34,9,104,False,8,.app,Freemium,False,1,0,0,21,0.6,Low,2023-09-22,Friday,19,9,2023,3
+171,SuperHub,2025-02-27 19:32:34,12,88,False,3,.tech,Free,False,0,0,0,0,0.0,Low,2025-02-27,Thursday,19,2,2025,1
+172,PixelMeta,2024-03-01 19:32:34,4,108,False,9,.com,Freemium,False,3,0,0,55,1.7999999999999998,Medium,2024-03-01,Friday,19,3,2024,1
+173,DevVision,2024-01-31 19:32:34,7,114,True,2,.io,Free Trial,False,9,3,0,185,6.299999999999999,Viral,2024-01-31,Wednesday,19,1,2024,1
+174,TechScript,2025-03-31 19:32:34,9,137,True,1,.io,Open Source,False,2,2,0,44,1.7999999999999998,Medium,2025-03-31,Monday,19,3,2025,1
+175,SuperVision,2024-04-06 19:32:34,11,101,False,4,.tech,Freemium,False,3,0,0,57,1.7999999999999998,Medium,2024-04-06,Saturday,19,4,2024,2
+176,SmartCloud,2023-11-01 19:32:34,12,187,False,2,.ai,Freemium,False,0,0,0,0,0.0,Low,2023-11-01,Wednesday,19,11,2023,4
+177,AutoDev,2024-08-06 19:32:34,7,109,False,9,.tech,Free Trial,False,3,0,0,55,1.7999999999999998,Medium,2024-08-06,Tuesday,19,8,2024,3
+178,DataMind,2024-05-30 19:32:34,9,155,False,6,.co,Free,False,4,1,0,74,2.6999999999999997,High,2024-05-30,Thursday,19,5,2024,2
+179,Mind,2024-03-16 19:32:34,12,30,False,10,.com,Freemium,False,6,3,4,115,4.9,Viral,2024-03-16,Saturday,19,3,2024,1
+180,HubTech,2023-12-28 19:32:34,3,140,False,5,.ai,Freemium,False,1,0,0,18,0.6,Low,2023-12-28,Thursday,19,12,2023,4
+181,DesignInsight,2025-01-09 19:32:34,4,94,False,0,.app,Free,False,3,1,0,69,2.0999999999999996,High,2025-01-09,Thursday,19,1,2025,1
+182,QuickCloud,2023-11-10 19:32:34,8,41,False,7,other,Freemium,False,3,0,0,67,1.7999999999999998,Medium,2023-11-10,Friday,19,11,2023,4
+183,AI,2023-12-21 19:32:34,6,112,False,1,.co,Free,False,2,0,0,45,1.2,Medium,2023-12-21,Thursday,19,12,2023,4
+184,Flow,2023-11-11 19:32:34,5,90,False,4,.ai,Paid,False,3,0,0,55,1.7999999999999998,Medium,2023-11-11,Saturday,19,11,2023,4
+185,DeployMeta,2023-09-24 19:32:34,4,117,False,8,other,Free Trial,False,3,3,0,58,2.6999999999999997,High,2023-09-24,Sunday,19,9,2023,3
+186,QuickBot,2025-02-17 19:32:34,8,130,False,7,other,Free,False,4,0,0,79,2.4,High,2025-02-17,Monday,19,2,2025,1
+187,Hub,2024-05-02 19:32:34,1,55,True,1,.com,Free Trial,False,9,2,1,161,6.099999999999999,Viral,2024-05-02,Thursday,19,5,2024,2
+188,SmartData,2023-09-10 19:32:34,9,130,False,8,.io,Free,False,5,1,0,94,3.3,High,2023-09-10,Sunday,19,9,2023,3
+189,EasyMind,2024-04-08 19:32:34,1,100,True,4,.app,Freemium,False,5,0,1,100,3.1,High,2024-04-08,Monday,19,4,2024,2
+190,SparkMeta,2023-07-24 19:32:34,8,140,False,9,.tech,Free,False,4,1,0,78,2.6999999999999997,High,2023-07-24,Monday,19,7,2023,3
+191,StreamHub,2023-10-11 19:32:34,4,93,False,5,.com,Free Trial,False,0,1,0,0,0.3,Low,2023-10-11,Wednesday,19,10,2023,4
+192,Wave,2023-08-21 19:32:34,9,85,False,2,.co,Paid,False,5,6,0,108,4.8,Viral,2023-08-21,Monday,19,8,2023,3
+193,Insight,2024-09-09 19:32:34,11,100,True,2,other,Paid,False,3,0,0,53,1.7999999999999998,Medium,2024-09-09,Monday,19,9,2024,3
+194,NeoTech,2023-12-17 19:32:34,5,103,False,9,.co,Free Trial,True,2,0,0,44,1.2,Medium,2023-12-17,Sunday,19,12,2023,4
+195,SmartSpark,2025-03-27 19:32:34,3,80,False,7,other,Freemium,False,5,4,0,99,4.2,High,2025-03-27,Thursday,19,3,2025,1
+196,HubTech,2023-05-12 19:32:34,9,85,False,10,.io,Open Source,False,11,0,0,234,6.6,Viral,2023-05-12,Friday,19,5,2023,2
+197,MegaVision,2025-01-14 19:32:34,11,63,False,9,.io,Paid,False,20,11,0,373,15.3,Viral,2025-01-14,Tuesday,19,1,2025,1
+198,Code,2024-05-26 19:32:34,9,86,False,9,.app,Free Trial,False,1,0,0,17,0.6,Low,2024-05-26,Sunday,19,5,2024,2
+199,Script,2024-04-18 19:32:34,4,120,False,1,.tech,Freemium,False,1,0,0,22,0.6,Low,2024-04-18,Thursday,19,4,2024,2
+200,AutoSync,2024-04-24 19:32:34,11,95,True,10,.app,Free,True,38,40,11,778,35.9,Viral,2024-04-24,Wednesday,19,4,2024,2
+201,SimpleCode,2024-04-13 19:32:34,4,130,True,1,.io,Freemium,False,3,0,1,51,1.9,Medium,2024-04-13,Saturday,19,4,2024,2
+202,CodeWave,2023-11-13 19:32:34,12,94,False,4,.io,Free,False,3,0,0,54,1.7999999999999998,Medium,2023-11-13,Monday,19,11,2023,4
+203,DataStream,2025-03-04 19:32:34,8,57,False,5,.co,Freemium,False,5,0,2,92,3.2,High,2025-03-04,Tuesday,19,3,2025,1
+204,Design,2023-12-29 19:32:34,2,117,True,1,.io,Freemium,False,1,1,0,20,0.8999999999999999,Medium,2023-12-29,Friday,19,12,2023,4
+205,RapidSpark,2025-02-04 19:32:34,9,79,True,4,.ai,Freemium,False,9,1,0,164,5.699999999999999,Viral,2025-02-04,Tuesday,19,2,2025,1
+206,DevDesign,2024-04-23 19:32:34,6,92,True,6,other,Free,False,4,0,0,73,2.4,High,2024-04-23,Tuesday,19,4,2024,2
+207,DevFlow,2025-02-11 19:32:34,9,137,False,9,.com,Free,False,12,5,0,232,8.7,Viral,2025-02-11,Tuesday,19,2,2025,1
+208,SmartFlow,2023-12-09 19:32:34,8,65,False,9,.io,Freemium,False,3,0,0,59,1.7999999999999998,Medium,2023-12-09,Saturday,19,12,2023,4
+209,FlowMind,2024-01-12 19:32:34,7,104,False,7,.app,Open Source,False,3,0,0,55,1.7999999999999998,Medium,2024-01-12,Friday,19,1,2024,1
+210,CloudSpark,2023-11-23 19:32:34,1,98,False,6,.tech,Freemium,False,0,0,0,0,0.0,Low,2023-11-23,Thursday,19,11,2023,4
+211,DeepData,2023-09-11 19:32:34,12,121,False,7,other,Freemium,False,6,3,0,123,4.5,Viral,2023-09-11,Monday,19,9,2023,3
+212,SimpleTech,2024-03-04 19:32:34,3,125,True,8,other,Paid,False,8,4,0,154,6.0,Viral,2024-03-04,Monday,19,3,2024,1
+213,EasyPro,2023-09-02 19:32:34,11,107,True,4,.tech,Freemium,False,0,0,0,0,0.0,Low,2023-09-02,Saturday,19,9,2023,3
+214,FlowDeploy,2024-07-20 19:32:34,2,89,True,4,.tech,Free,False,1,1,0,20,0.8999999999999999,Medium,2024-07-20,Saturday,19,7,2024,3
+215,DeepAI,2023-12-01 19:32:34,5,114,False,10,other,Freemium,False,5,9,0,94,5.699999999999999,Viral,2023-12-01,Friday,19,12,2023,4
+216,DesignPixel,2024-05-22 19:32:34,5,140,False,9,.ai,Free,False,5,0,0,84,3.0,High,2024-05-22,Wednesday,19,5,2024,2
+217,LogicApp,2024-08-16 19:32:34,5,99,True,3,.app,Open Source,False,8,0,0,160,4.8,Viral,2024-08-16,Friday,19,8,2024,3
+218,DeepHub,2023-07-18 19:32:34,4,91,False,8,.ai,Free,True,30,11,0,583,21.3,Viral,2023-07-18,Tuesday,19,7,2023,3
+219,DevCode,2024-01-28 19:32:34,5,111,False,4,.io,Freemium,True,0,0,0,0,0.0,Low,2024-01-28,Sunday,19,1,2024,1
+220,Pixel,2025-03-27 19:32:34,3,101,False,1,.com,Free,False,2,1,1,36,1.6,Medium,2025-03-27,Thursday,19,3,2025,1
+221,BoostMind,2025-03-15 19:32:34,12,59,True,9,.tech,Free,False,9,4,0,181,6.6,Viral,2025-03-15,Saturday,19,3,2025,1
+222,FastStream,2023-09-12 19:32:34,1,107,False,7,.app,Paid,False,4,2,0,94,3.0,High,2023-09-12,Tuesday,19,9,2023,3
+223,ConnectDeploy,2023-09-27 19:32:34,5,59,False,6,.tech,Free,False,5,0,0,93,3.0,High,2023-09-27,Wednesday,19,9,2023,3
+224,DesignMeta,2024-03-20 19:32:34,9,111,True,7,.ai,Free,False,12,12,0,238,10.799999999999999,Viral,2024-03-20,Wednesday,19,3,2024,1
+225,PulseFlow,2023-06-20 19:32:34,9,76,False,2,.co,Freemium,False,12,0,1,233,7.299999999999999,Viral,2023-06-20,Tuesday,19,6,2023,2
+226,DevDev,2023-06-01 19:32:34,4,101,True,3,.io,Free,False,4,3,0,82,3.3,High,2023-06-01,Thursday,19,6,2023,2
+227,Pixel,2023-06-14 19:32:34,3,111,False,4,.com,Free,False,2,0,0,38,1.2,Medium,2023-06-14,Wednesday,19,6,2023,2
+228,QuickMeta,2023-12-18 19:32:34,1,173,False,5,.io,Free Trial,False,6,0,0,119,3.5999999999999996,High,2023-12-18,Monday,19,12,2023,4
+229,Dev,2023-10-08 19:32:34,2,122,False,0,.co,Paid,False,0,0,0,0,0.0,Low,2023-10-08,Sunday,19,10,2023,4
+230,UltraTech,2023-07-18 19:32:34,8,140,False,3,.com,Free Trial,False,4,0,0,79,2.4,High,2023-07-18,Tuesday,19,7,2023,3
+231,FastDev,2024-05-08 19:32:34,1,156,False,10,.co,Free Trial,False,3,1,1,60,2.1999999999999997,High,2024-05-08,Wednesday,19,5,2024,2
+232,SmartCloud,2024-09-20 19:32:34,8,114,False,9,.io,Paid,False,4,4,0,78,3.5999999999999996,High,2024-09-20,Friday,19,9,2024,3
+233,ProCloud,2023-06-06 19:32:34,7,108,False,4,.ai,Free,False,3,1,1,66,2.1999999999999997,High,2023-06-06,Tuesday,19,6,2023,2
+234,QuickDesign,2023-11-08 19:32:34,8,67,False,6,other,Paid,False,7,6,0,131,6.0,Viral,2023-11-08,Wednesday,19,11,2023,4
+235,FlowStream,2023-11-16 19:32:34,12,96,False,4,.io,Free Trial,True,0,0,0,0,0.0,Low,2023-11-16,Thursday,19,11,2023,4
+236,UltraPulse,2024-02-13 19:32:34,6,78,False,0,.io,Paid,False,4,0,0,76,2.4,High,2024-02-13,Tuesday,19,2,2024,1
+237,TechLogic,2023-06-29 19:32:34,12,87,False,10,.io,Freemium,False,3,0,0,69,1.7999999999999998,Medium,2023-06-29,Thursday,19,6,2023,2
+238,AppSpark,2023-12-01 19:32:34,9,156,False,6,.app,Free,False,2,0,0,45,1.2,Medium,2023-12-01,Friday,19,12,2023,4
+239,DevVision,2024-01-30 19:32:34,3,103,False,7,.co,Free Trial,False,4,0,0,84,2.4,High,2024-01-30,Tuesday,19,1,2024,1
+240,ConnectMeta,2024-06-08 19:32:34,10,73,False,6,.co,Paid,False,2,2,0,44,1.7999999999999998,Medium,2024-06-08,Saturday,19,6,2024,2
+241,Deploy,2023-12-15 19:32:34,4,141,False,10,.tech,Open Source,False,4,0,0,77,2.4,High,2023-12-15,Friday,19,12,2023,4
+242,Mind,2024-11-16 19:32:34,6,128,False,3,.co,Free,True,3,0,0,63,1.7999999999999998,Medium,2024-11-16,Saturday,19,11,2024,4
+243,Deploy,2024-09-08 19:32:34,8,130,False,7,.tech,Free,False,1,0,0,16,0.6,Low,2024-09-08,Sunday,19,9,2024,3
+244,MindStream,2023-06-18 19:32:34,5,39,False,4,.app,Free,False,0,0,0,0,0.0,Low,2023-06-18,Sunday,19,6,2023,2
+245,ConnectCloud,2023-06-21 19:32:34,3,158,False,9,.ai,Paid,False,4,0,0,84,2.4,High,2023-06-21,Wednesday,19,6,2023,2
+246,Dev,2024-08-11 19:32:34,6,83,False,8,.tech,Free,False,3,2,0,65,2.4,High,2024-08-11,Sunday,19,8,2024,3
+247,UltraCode,2023-09-29 19:32:34,4,123,False,9,.io,Free,False,6,0,0,111,3.5999999999999996,High,2023-09-29,Friday,19,9,2023,3
+248,App,2023-05-14 19:32:34,9,175,False,4,.ai,Open Source,False,1,1,0,15,0.8999999999999999,Medium,2023-05-14,Sunday,19,5,2023,2
+249,Meta,2024-10-31 19:32:34,3,164,False,0,other,Free,False,7,0,0,137,4.2,High,2024-10-31,Thursday,19,10,2024,4
+250,Data,2024-06-27 19:32:34,4,70,False,8,.app,Free Trial,False,2,0,0,38,1.2,Medium,2024-06-27,Thursday,19,6,2024,2
+251,SyncApp,2024-06-20 19:32:34,7,56,False,4,.co,Freemium,False,7,0,0,142,4.2,High,2024-06-20,Thursday,19,6,2024,2
+252,VisionAI,2023-06-08 19:32:34,7,142,True,5,.tech,Free Trial,False,7,0,0,143,4.2,High,2023-06-08,Thursday,19,6,2023,2
+253,Code,2023-12-16 19:32:34,12,104,True,3,.io,Freemium,True,4,0,0,69,2.4,High,2023-12-16,Saturday,19,12,2023,4
+254,FlowFlow,2023-08-29 19:32:34,12,84,True,5,.com,Free Trial,False,5,2,0,94,3.6,High,2023-08-29,Tuesday,19,8,2023,3
+255,VisionSync,2023-12-07 19:32:34,4,118,False,7,other,Free Trial,False,0,0,0,0,0.0,Low,2023-12-07,Thursday,19,12,2023,4
+256,NextMeta,2024-09-06 19:32:34,6,95,True,2,.com,Free,False,0,0,0,0,0.0,Low,2024-09-06,Friday,19,9,2024,3
+257,Quick,2024-05-08 19:32:34,12,121,True,4,.ai,Free,False,4,1,0,82,2.6999999999999997,High,2024-05-08,Wednesday,19,5,2024,2
+258,SuperScript,2025-04-06 19:32:34,3,102,False,1,.co,Free,False,1,0,0,16,0.6,Low,2025-04-06,Sunday,19,4,2025,2
+259,NeoApp,2023-12-10 19:32:34,6,121,False,1,.com,Paid,False,0,0,0,0,0.0,Low,2023-12-10,Sunday,19,12,2023,4
+260,QuickDev,2024-03-03 19:32:34,12,73,False,6,.ai,Free Trial,False,0,0,0,0,0.0,Low,2024-03-03,Sunday,19,3,2024,1
+261,EasySpark,2024-12-15 19:32:34,2,142,False,9,.app,Freemium,False,2,0,0,39,1.2,Medium,2024-12-15,Sunday,19,12,2024,4
+262,Wave,2024-01-19 19:32:34,8,120,True,9,.ai,Freemium,False,4,4,0,80,3.5999999999999996,High,2024-01-19,Friday,19,1,2024,1
+263,PulseMeta,2023-12-31 19:32:34,2,119,False,10,other,Free,False,3,2,0,54,2.4,High,2023-12-31,Sunday,19,12,2023,4
+264,SimpleStream,2024-04-01 19:32:34,11,66,False,9,.ai,Free Trial,True,6,2,0,116,4.199999999999999,High,2024-04-01,Monday,19,4,2024,2
+265,Sync,2023-05-19 19:32:34,7,150,False,5,other,Open Source,False,0,0,0,0,0.0,Low,2023-05-19,Friday,19,5,2023,2
+266,BoostPulse,2023-06-11 19:32:34,9,99,False,3,.ai,Free,False,0,0,0,0,0.0,Low,2023-06-11,Sunday,19,6,2023,2
+267,EasyScript,2024-04-17 19:32:34,1,121,False,4,.io,Freemium,False,3,2,0,52,2.4,High,2024-04-17,Wednesday,19,4,2024,2
+268,SmartCloud,2023-09-01 19:32:34,8,90,False,0,.ai,Free,True,1,0,0,22,0.6,Low,2023-09-01,Friday,19,9,2023,3
+269,StreamConnect,2024-01-17 19:32:34,7,107,False,6,.tech,Freemium,False,6,0,0,119,3.5999999999999996,High,2024-01-17,Wednesday,19,1,2024,1
+270,ProPixel,2023-08-03 19:32:34,6,108,True,7,.ai,Freemium,False,9,4,0,163,6.6,Viral,2023-08-03,Thursday,19,8,2023,3
+271,Smart,2024-05-15 19:32:34,6,30,True,8,.io,Free,False,5,2,0,105,3.6,High,2024-05-15,Wednesday,19,5,2024,2
+272,Flow,2025-02-09 19:32:34,6,117,True,7,.io,Freemium,False,2,0,0,45,1.2,Medium,2025-02-09,Sunday,19,2,2025,1
+273,Script,2024-12-15 19:32:34,9,158,True,4,.app,Freemium,False,0,0,0,0,0.0,Low,2024-12-15,Sunday,19,12,2024,4
+274,Vision,2024-11-06 19:32:34,2,116,False,2,other,Freemium,False,5,0,2,103,3.2,High,2024-11-06,Wednesday,19,11,2024,4
+275,SmartPixel,2025-01-22 19:32:34,1,71,True,9,.co,Freemium,False,2,0,0,47,1.2,Medium,2025-01-22,Wednesday,19,1,2025,1
+276,ProPro,2024-09-11 19:32:34,12,119,False,10,.com,Free,False,1,0,0,17,0.6,Low,2024-09-11,Wednesday,19,9,2024,3
+277,UltraBot,2024-05-01 19:32:34,6,131,True,8,.com,Paid,False,5,2,0,94,3.6,High,2024-05-01,Wednesday,19,5,2024,2
+278,MegaPulse,2024-08-19 19:32:34,10,115,True,5,.ai,Paid,False,5,0,0,106,3.0,High,2024-08-19,Monday,19,8,2024,3
+279,NextWave,2024-02-17 19:32:34,11,97,False,4,.app,Freemium,False,0,0,0,0,0.0,Low,2024-02-17,Saturday,19,2,2024,1
+280,SmartConnect,2024-09-30 19:32:34,8,92,True,2,.ai,Free,False,12,0,2,251,7.3999999999999995,Viral,2024-09-30,Monday,19,9,2024,3
+281,Hub,2023-04-26 19:32:34,3,92,False,5,.com,Paid,False,11,0,0,234,6.6,Viral,2023-04-26,Wednesday,19,4,2023,2
+282,QuickMeta,2024-08-24 19:32:34,12,120,False,2,other,Open Source,False,1,0,0,16,0.6,Low,2024-08-24,Saturday,19,8,2024,3
+283,DevSmart,2023-05-11 19:32:34,10,57,True,9,other,Free,False,10,0,0,218,6.0,Viral,2023-05-11,Thursday,19,5,2023,2
+284,InsightMind,2024-04-08 19:32:34,1,88,True,5,other,Freemium,False,3,1,0,65,2.0999999999999996,High,2024-04-08,Monday,19,4,2024,2
+285,SimpleSpark,2023-12-27 19:32:34,9,147,False,3,.io,Free,False,0,0,0,0,0.0,Low,2023-12-27,Wednesday,19,12,2023,4
+286,InsightFlow,2024-10-06 19:32:34,1,149,True,1,.co,Freemium,False,6,2,0,119,4.199999999999999,High,2024-10-06,Sunday,19,10,2024,4
+287,ProQuick,2024-07-16 19:32:34,3,55,True,7,.app,Free,False,19,0,0,409,11.4,Viral,2024-07-16,Tuesday,19,7,2024,3
+288,SuperDesign,2024-07-14 19:32:34,8,66,True,3,.io,Freemium,False,4,3,0,85,3.3,High,2024-07-14,Sunday,19,7,2024,3
+289,MetaSync,2025-02-06 19:32:34,3,91,True,8,.co,Paid,False,4,0,0,79,2.4,High,2025-02-06,Thursday,19,2,2025,1
+290,FastFlow,2023-10-01 19:32:34,4,126,False,6,.app,Freemium,True,4,1,0,78,2.6999999999999997,High,2023-10-01,Sunday,19,10,2023,4
+291,QuickCloud,2024-10-09 19:32:34,8,45,False,1,.app,Freemium,False,3,0,0,49,1.7999999999999998,Medium,2024-10-09,Wednesday,19,10,2024,4
+292,ProMeta,2025-03-17 19:32:34,1,98,False,3,.com,Freemium,True,4,3,0,73,3.3,High,2025-03-17,Monday,19,3,2025,1
+293,Stream,2024-10-28 19:32:34,6,85,True,4,.io,Freemium,False,8,0,2,143,5.0,Viral,2024-10-28,Monday,19,10,2024,4
+294,ScriptSmart,2023-09-07 19:32:34,1,139,True,2,.app,Free,False,0,0,0,0,0.0,Low,2023-09-07,Thursday,19,9,2023,3
+295,PixelInsight,2023-05-03 19:32:34,1,49,False,8,.tech,Free,False,7,2,0,154,4.8,Viral,2023-05-03,Wednesday,19,5,2023,2
+296,ProSmart,2023-11-06 19:32:34,8,102,False,4,other,Free Trial,False,2,3,0,34,2.0999999999999996,High,2023-11-06,Monday,19,11,2023,4
+297,SmartVision,2024-11-15 19:32:34,11,88,False,1,.app,Free,True,0,0,0,0,0.0,Low,2024-11-15,Friday,19,11,2024,4
+298,DeployPro,2023-10-13 19:32:34,4,144,False,10,.co,Paid,False,0,0,0,0,0.0,Low,2023-10-13,Friday,19,10,2023,4
+299,EasyPulse,2023-10-20 19:32:34,12,117,False,2,.com,Free Trial,False,0,0,0,0,0.0,Low,2023-10-20,Friday,19,10,2023,4
+300,BotPro,2023-11-21 19:32:34,1,82,False,8,.ai,Free,False,0,0,0,0,0.0,Low,2023-11-21,Tuesday,19,11,2023,4
+301,DevMind,2024-07-01 19:32:34,10,125,False,6,other,Freemium,False,4,0,0,68,2.4,High,2024-07-01,Monday,19,7,2024,3
+302,DevPixel,2024-09-10 19:32:34,7,88,False,1,.com,Freemium,False,12,9,4,219,10.299999999999999,Viral,2024-09-10,Tuesday,19,9,2024,3
+303,EasyDesign,2023-07-14 19:32:34,5,129,False,8,.ai,Free Trial,False,1,0,0,18,0.6,Low,2023-07-14,Friday,19,7,2023,3
+304,DeepMind,2025-01-16 19:32:34,5,92,True,3,.io,Free Trial,False,3,0,0,65,1.7999999999999998,Medium,2025-01-16,Thursday,19,1,2025,1
+305,DevPro,2023-06-28 19:32:34,1,131,False,8,.io,Paid,True,12,0,3,231,7.499999999999999,Viral,2023-06-28,Wednesday,19,6,2023,2
+306,Code,2024-11-09 19:32:34,10,113,False,1,.app,Free,False,1,0,0,24,0.6,Low,2024-11-09,Saturday,19,11,2024,4
+307,ProPro,2024-01-02 19:32:34,11,197,False,9,.tech,Paid,False,2,2,1,34,1.9,Medium,2024-01-02,Tuesday,19,1,2024,1
+308,DevDesign,2024-01-04 19:32:34,6,98,False,3,.io,Freemium,False,0,0,0,0,0.0,Low,2024-01-04,Thursday,19,1,2024,1
+309,UltraMind,2025-02-27 19:32:34,9,111,False,4,.app,Freemium,False,7,7,0,131,6.300000000000001,Viral,2025-02-27,Thursday,19,2,2025,1
+310,PulseBot,2023-12-05 19:32:34,9,85,True,1,other,Free,False,6,0,0,125,3.5999999999999996,High,2023-12-05,Tuesday,19,12,2023,4
+311,SmartFlow,2024-11-14 19:32:34,8,100,False,9,.com,Free,False,6,9,0,122,6.299999999999999,Viral,2024-11-14,Thursday,19,11,2024,4
+312,VisionFlow,2023-07-15 19:32:34,5,30,False,0,.io,Paid,True,2,0,0,41,1.2,Medium,2023-07-15,Saturday,19,7,2023,3
+313,AIBot,2023-04-27 19:32:34,1,113,False,6,.com,Freemium,False,2,0,0,33,1.2,Medium,2023-04-27,Thursday,19,4,2023,2
+314,Pixel,2024-05-25 19:32:34,9,140,False,9,.com,Freemium,False,4,0,1,76,2.5,High,2024-05-25,Saturday,19,5,2024,2
+315,Stream,2023-04-28 19:32:34,1,111,False,0,.tech,Freemium,False,1,1,0,22,0.8999999999999999,Medium,2023-04-28,Friday,19,4,2023,2
+316,SuperAI,2024-08-10 19:32:34,8,60,False,10,.io,Free Trial,False,1,3,0,23,1.5,Medium,2024-08-10,Saturday,19,8,2024,3
+317,HyperCode,2025-02-05 19:32:34,5,75,False,10,.com,Paid,False,2,0,0,39,1.2,Medium,2025-02-05,Wednesday,19,2,2025,1
+318,DeploySmart,2023-05-08 19:32:34,3,30,False,7,.tech,Free,False,3,0,0,55,1.7999999999999998,Medium,2023-05-08,Monday,19,5,2023,2
+319,AppDev,2023-05-05 19:32:34,11,129,False,2,.tech,Free,False,3,0,0,61,1.7999999999999998,Medium,2023-05-05,Friday,19,5,2023,2
+320,BotDesign,2025-04-13 19:32:34,7,69,False,9,.io,Free,True,9,4,5,167,7.1,Viral,2025-04-13,Sunday,19,4,2025,2
+321,AutoMeta,2024-06-18 19:32:34,7,99,True,5,.tech,Free Trial,False,5,0,2,106,3.2,High,2024-06-18,Tuesday,19,6,2024,2
+322,SimpleDev,2023-08-02 19:32:34,9,95,False,6,.io,Freemium,False,6,6,1,131,5.499999999999999,Viral,2023-08-02,Wednesday,19,8,2023,3
+323,HyperQuick,2024-05-15 19:32:34,7,144,True,9,.io,Freemium,False,0,0,0,0,0.0,Low,2024-05-15,Wednesday,19,5,2024,2
+324,QuickMind,2024-02-12 19:32:34,11,102,False,0,.ai,Freemium,False,1,0,0,22,0.6,Low,2024-02-12,Monday,19,2,2024,1
+325,Bot,2025-02-18 19:32:34,3,124,False,5,.com,Freemium,False,2,1,0,38,1.5,Medium,2025-02-18,Tuesday,19,2,2025,1
+326,DevHub,2023-06-24 19:32:34,11,116,False,6,.co,Free Trial,False,0,0,0,0,0.0,Low,2023-06-24,Saturday,19,6,2023,2
+327,DevSmart,2023-11-19 19:32:34,1,140,False,5,.io,Freemium,False,4,0,0,81,2.4,High,2023-11-19,Sunday,19,11,2023,4
+328,BoostPro,2023-07-04 19:32:34,8,92,True,3,.com,Free,False,1,2,0,15,1.2,Medium,2023-07-04,Tuesday,19,7,2023,3
+329,BoostTech,2024-04-03 19:32:34,12,156,True,0,other,Free,False,6,0,0,104,3.5999999999999996,High,2024-04-03,Wednesday,19,4,2024,2
+330,MetaDesign,2024-12-31 19:32:34,3,40,False,10,.tech,Freemium,False,9,0,0,184,5.3999999999999995,Viral,2024-12-31,Tuesday,19,12,2024,4
+331,FlowApp,2024-03-27 19:32:34,12,125,False,8,.app,Free Trial,False,3,0,0,54,1.7999999999999998,Medium,2024-03-27,Wednesday,19,3,2024,1
+332,DeepDesign,2024-11-16 19:32:34,8,74,False,3,.io,Freemium,False,2,0,0,39,1.2,Medium,2024-11-16,Saturday,19,11,2024,4
+333,PulseInsight,2023-07-03 19:32:34,8,85,True,6,.tech,Free Trial,False,6,5,2,129,5.3,Viral,2023-07-03,Monday,19,7,2023,3
+334,WaveHub,2023-08-05 19:32:34,5,117,True,6,.tech,Paid,False,6,5,0,110,5.1,Viral,2023-08-05,Saturday,19,8,2023,3
+335,InsightCloud,2024-12-15 19:32:34,12,116,True,1,.tech,Free,False,7,0,0,147,4.2,High,2024-12-15,Sunday,19,12,2024,4
+336,TechDesign,2023-06-21 19:32:34,1,118,True,0,.tech,Free,False,1,2,0,15,1.2,Medium,2023-06-21,Wednesday,19,6,2023,2
+337,Flow,2024-09-25 19:32:34,10,58,False,7,.tech,Free,False,6,2,0,98,4.199999999999999,High,2024-09-25,Wednesday,19,9,2024,3
+338,EasyWave,2024-09-03 19:32:34,7,143,False,7,.io,Paid,False,21,6,2,415,14.599999999999998,Viral,2024-09-03,Tuesday,19,9,2024,3
+339,AutoPulse,2025-02-07 19:32:34,12,72,False,6,other,Free,False,3,0,0,59,1.7999999999999998,Medium,2025-02-07,Friday,19,2,2025,1
+340,StreamConnect,2025-01-20 19:32:34,10,76,False,7,.co,Freemium,False,2,0,0,35,1.2,Medium,2025-01-20,Monday,19,1,2025,1
+341,NeoDesign,2023-11-18 19:32:34,5,119,True,2,.ai,Freemium,False,0,0,0,0,0.0,Low,2023-11-18,Saturday,19,11,2023,4
+342,MegaWave,2024-06-24 19:32:34,8,91,False,10,.tech,Paid,False,10,9,5,204,9.2,Viral,2024-06-24,Monday,19,6,2024,2
+343,AIConnect,2024-01-08 19:32:34,9,109,True,1,.tech,Free,False,3,0,0,55,1.7999999999999998,Medium,2024-01-08,Monday,19,1,2024,1
+344,FastPulse,2025-02-02 19:32:34,11,35,True,6,.ai,Freemium,False,2,0,0,41,1.2,Medium,2025-02-02,Sunday,19,2,2025,1
+345,CloudSync,2024-07-12 19:32:34,7,108,False,7,other,Freemium,False,1,0,0,17,0.6,Low,2024-07-12,Friday,19,7,2024,3
+346,SmartStream,2024-08-25 19:32:34,7,106,True,0,other,Freemium,False,1,0,0,23,0.6,Low,2024-08-25,Sunday,19,8,2024,3
+347,QuickSync,2023-08-16 19:32:34,1,84,True,9,.io,Free Trial,False,11,3,0,199,7.5,Viral,2023-08-16,Wednesday,19,8,2023,3
+348,DesignWave,2023-08-15 19:32:34,4,37,False,8,.com,Free,False,11,7,0,240,8.7,Viral,2023-08-15,Tuesday,19,8,2023,3
+349,BotCloud,2024-12-04 19:32:34,2,93,False,10,.app,Free Trial,False,3,0,0,58,1.7999999999999998,Medium,2024-12-04,Wednesday,19,12,2024,4
+350,DevHub,2024-04-15 19:32:34,2,98,False,3,.app,Paid,False,2,0,0,43,1.2,Medium,2024-04-15,Monday,19,4,2024,2
+351,EasyPro,2024-12-14 19:32:34,2,88,True,3,.com,Freemium,False,0,0,0,0,0.0,Low,2024-12-14,Saturday,19,12,2024,4
+352,Sync,2023-10-06 19:32:34,4,44,True,2,.io,Paid,False,0,1,0,0,0.3,Low,2023-10-06,Friday,19,10,2023,4
+353,AutoPulse,2023-06-14 19:32:34,1,147,False,5,.app,Freemium,False,3,0,0,55,1.7999999999999998,Medium,2023-06-14,Wednesday,19,6,2023,2
+354,AppDev,2024-02-17 19:32:34,4,80,True,0,other,Free,False,0,0,0,0,0.0,Low,2024-02-17,Saturday,19,2,2024,1
+355,QuickSpark,2024-12-31 19:32:34,2,93,False,5,.ai,Paid,False,7,1,2,138,4.7,Viral,2024-12-31,Tuesday,19,12,2024,4
+356,AutoAI,2025-01-21 19:32:34,5,30,True,1,.com,Freemium,False,8,0,2,169,5.0,Viral,2025-01-21,Tuesday,19,1,2025,1
+357,FlowDeploy,2024-05-10 19:32:34,3,147,False,8,other,Freemium,False,3,0,0,60,1.7999999999999998,Medium,2024-05-10,Friday,19,5,2024,2
+358,ProPulse,2024-05-15 19:32:34,12,86,True,1,.co,Freemium,True,30,19,0,632,23.7,Viral,2024-05-15,Wednesday,19,5,2024,2
+359,Pulse,2024-04-30 19:32:34,8,102,False,6,.io,Free Trial,False,14,6,0,244,10.2,Viral,2024-04-30,Tuesday,19,4,2024,2
+360,UltraPixel,2023-07-02 19:32:34,4,133,False,0,.com,Freemium,False,2,2,0,37,1.7999999999999998,Medium,2023-07-02,Sunday,19,7,2023,3
+361,SparkSpark,2025-01-30 19:32:34,1,79,False,6,.app,Free,True,8,9,0,162,7.5,Viral,2025-01-30,Thursday,19,1,2025,1
+362,UltraSpark,2024-05-16 19:32:34,1,128,True,4,.io,Freemium,True,7,0,0,132,4.2,High,2024-05-16,Thursday,19,5,2024,2
+363,ProHub,2024-10-12 19:32:34,12,38,False,7,.ai,Paid,False,5,0,0,101,3.0,High,2024-10-12,Saturday,19,10,2024,4
+364,AutoAI,2023-10-16 19:32:34,10,116,False,3,.io,Paid,False,0,0,0,0,0.0,Low,2023-10-16,Monday,19,10,2023,4
+365,Meta,2023-12-07 19:32:34,3,147,False,9,.io,Freemium,False,0,0,0,0,0.0,Low,2023-12-07,Thursday,19,12,2023,4
+366,DeployBot,2024-04-24 19:32:34,9,82,False,6,.ai,Free Trial,False,6,2,0,133,4.199999999999999,High,2024-04-24,Wednesday,19,4,2024,2
+367,Vision,2023-06-24 19:32:34,7,133,True,5,.tech,Free,False,0,0,0,0,0.0,Low,2023-06-24,Saturday,19,6,2023,2
+368,Mind,2023-05-14 19:32:34,2,155,True,4,.ai,Freemium,False,5,0,0,108,3.0,High,2023-05-14,Sunday,19,5,2023,2
+369,SyncPixel,2023-11-13 19:32:34,9,92,False,3,other,Free Trial,False,6,4,0,127,4.8,Viral,2023-11-13,Monday,19,11,2023,4
+370,PulseCloud,2023-08-01 19:32:34,10,89,True,6,.io,Free Trial,False,10,17,0,208,11.1,Viral,2023-08-01,Tuesday,19,8,2023,3
+371,TechBot,2023-07-16 19:32:34,2,73,False,4,.ai,Paid,False,2,0,0,43,1.2,Medium,2023-07-16,Sunday,19,7,2023,3
+372,SparkCloud,2024-03-11 19:32:34,3,84,False,4,.tech,Free Trial,False,3,2,0,56,2.4,High,2024-03-11,Monday,19,3,2024,1
+373,ProDev,2023-04-16 19:32:34,11,75,False,0,other,Free,True,0,0,0,0,0.0,Low,2023-04-16,Sunday,19,4,2023,2
+374,AutoConnect,2025-02-11 19:32:34,10,73,False,1,.com,Free Trial,False,0,0,0,0,0.0,Low,2025-02-11,Tuesday,19,2,2025,1
+375,DevSpark,2023-05-25 19:32:34,2,135,False,4,.ai,Freemium,True,6,4,2,106,5.0,Viral,2023-05-25,Thursday,19,5,2023,2
+376,FlowSmart,2024-06-09 19:32:34,3,76,True,2,.ai,Free,False,2,0,0,41,1.2,Medium,2024-06-09,Sunday,19,6,2024,2
+377,Vision,2023-08-20 19:32:34,6,107,True,1,.io,Free,False,1,1,0,22,0.8999999999999999,Medium,2023-08-20,Sunday,19,8,2023,3
+378,SparkData,2023-05-23 19:32:34,9,101,False,3,other,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2023-05-23,Tuesday,19,5,2023,2
+379,Flow,2025-03-14 19:32:34,9,144,True,3,.com,Free,False,2,0,0,37,1.2,Medium,2025-03-14,Friday,19,3,2025,1
+380,DesignSmart,2024-10-08 19:32:34,7,84,True,3,.co,Freemium,False,4,5,0,78,3.9,High,2024-10-08,Tuesday,19,10,2024,4
+381,AIPulse,2023-05-18 19:32:34,12,111,False,3,.co,Free,False,2,0,0,40,1.2,Medium,2023-05-18,Thursday,19,5,2023,2
+382,QuickDeploy,2023-11-18 19:32:34,3,123,False,2,.app,Free,False,0,0,0,0,0.0,Low,2023-11-18,Saturday,19,11,2023,4
+383,QuickScript,2023-12-12 19:32:34,4,144,False,6,.ai,Freemium,True,9,3,0,170,6.299999999999999,Viral,2023-12-12,Tuesday,19,12,2023,4
+384,Smart,2024-09-08 19:32:34,6,84,True,8,.ai,Freemium,False,10,0,3,198,6.3,Viral,2024-09-08,Sunday,19,9,2024,3
+385,HyperSmart,2024-07-20 19:32:34,11,81,True,4,.com,Freemium,False,1,0,0,18,0.6,Low,2024-07-20,Saturday,19,7,2024,3
+386,Sync,2023-12-18 19:32:34,5,68,True,3,.tech,Paid,False,3,0,0,56,1.7999999999999998,Medium,2023-12-18,Monday,19,12,2023,4
+387,SyncConnect,2024-07-31 19:32:34,2,167,False,10,.co,Free Trial,False,4,3,0,71,3.3,High,2024-07-31,Wednesday,19,7,2024,3
+388,DataWave,2024-10-24 19:32:34,6,141,False,1,.app,Paid,False,5,0,2,85,3.2,High,2024-10-24,Thursday,19,10,2024,4
+389,SuperPro,2023-12-27 19:32:34,3,98,False,1,.com,Freemium,False,3,1,0,58,2.0999999999999996,High,2023-12-27,Wednesday,19,12,2023,4
+390,Vision,2025-02-09 19:32:34,8,157,False,4,.ai,Paid,False,1,0,0,17,0.6,Low,2025-02-09,Sunday,19,2,2025,1
+391,Sync,2025-01-15 19:32:34,2,96,False,6,.co,Free,False,11,1,3,190,7.199999999999999,Viral,2025-01-15,Wednesday,19,1,2025,1
+392,DevAI,2025-02-01 19:32:34,1,121,False,9,other,Free,False,1,0,0,21,0.6,Low,2025-02-01,Saturday,19,2,2025,1
+393,ScriptInsight,2024-12-06 19:32:34,9,100,False,9,.app,Freemium,False,0,0,0,0,0.0,Low,2024-12-06,Friday,19,12,2024,4
+394,BoostTech,2025-01-25 19:32:34,12,111,False,8,.io,Free Trial,False,2,1,0,44,1.5,Medium,2025-01-25,Saturday,19,1,2025,1
+395,CloudTech,2024-04-15 19:32:34,3,108,False,6,.co,Free,False,3,0,0,62,1.7999999999999998,Medium,2024-04-15,Monday,19,4,2024,2
+396,Pixel,2023-04-22 19:32:34,11,87,False,4,.app,Free,False,2,0,0,41,1.2,Medium,2023-04-22,Saturday,19,4,2023,2
+397,Pro,2023-05-12 19:32:34,1,132,False,9,.com,Free,False,3,3,1,55,2.8,High,2023-05-12,Friday,19,5,2023,2
+398,DeepDesign,2024-02-05 19:32:34,7,121,False,9,.io,Free Trial,False,6,8,0,116,6.0,Viral,2024-02-05,Monday,19,2,2024,1
+399,ProDev,2023-07-15 19:32:34,10,130,False,9,.app,Freemium,False,2,0,0,37,1.2,Medium,2023-07-15,Saturday,19,7,2023,3
+400,EasySmart,2023-07-06 19:32:34,5,109,False,5,.app,Free,False,0,0,0,0,0.0,Low,2023-07-06,Thursday,19,7,2023,3
+401,ScriptPixel,2024-09-09 19:32:34,5,72,False,10,.ai,Freemium,True,5,2,0,92,3.6,High,2024-09-09,Monday,19,9,2024,3
+402,Code,2023-05-20 19:32:34,1,151,True,2,.tech,Freemium,True,5,0,0,85,3.0,High,2023-05-20,Saturday,19,5,2023,2
+403,SmartConnect,2023-07-27 19:32:34,9,92,True,4,.co,Paid,False,3,0,0,65,1.7999999999999998,Medium,2023-07-27,Thursday,19,7,2023,3
+404,Sync,2024-01-21 19:32:34,7,110,False,7,.ai,Free,False,1,0,0,18,0.6,Low,2024-01-21,Sunday,19,1,2024,1
+405,DevQuick,2024-09-12 19:32:34,8,119,False,0,other,Free Trial,False,3,0,0,60,1.7999999999999998,Medium,2024-09-12,Thursday,19,9,2024,3
+406,AI,2024-01-31 19:32:34,9,110,True,0,.io,Freemium,False,0,0,0,0,0.0,Low,2024-01-31,Wednesday,19,1,2024,1
+407,ScriptHub,2024-05-20 19:32:34,6,127,False,6,.tech,Paid,True,7,4,0,120,5.4,Viral,2024-05-20,Monday,19,5,2024,2
+408,QuickSync,2024-06-19 19:32:34,12,132,True,4,.app,Free,False,3,4,0,59,3.0,High,2024-06-19,Wednesday,19,6,2024,2
+409,Tech,2024-03-04 19:32:34,5,93,True,4,.ai,Freemium,False,2,0,0,40,1.2,Medium,2024-03-04,Monday,19,3,2024,1
+410,HubQuick,2023-05-25 19:32:34,6,148,False,0,.tech,Freemium,False,4,0,0,79,2.4,High,2023-05-25,Thursday,19,5,2023,2
+411,DevCode,2024-08-01 19:32:34,11,91,True,8,other,Freemium,False,7,3,0,131,5.1,Viral,2024-08-01,Thursday,19,8,2024,3
+412,Code,2023-11-03 19:32:34,2,110,True,0,.co,Free,False,2,1,0,33,1.5,Medium,2023-11-03,Friday,19,11,2023,4
+413,Wave,2024-03-25 19:32:34,4,88,False,4,other,Paid,True,6,2,0,121,4.199999999999999,High,2024-03-25,Monday,19,3,2024,1
+414,SuperAI,2024-04-11 19:32:34,3,79,False,9,.io,Free,False,11,14,2,199,11.0,Viral,2024-04-11,Thursday,19,4,2024,2
+415,QuickTech,2024-03-26 19:32:34,7,131,False,8,.com,Paid,False,3,0,0,64,1.7999999999999998,Medium,2024-03-26,Tuesday,19,3,2024,1
+416,ProDesign,2025-03-19 19:32:34,9,193,False,3,.ai,Free Trial,False,3,0,0,48,1.7999999999999998,Medium,2025-03-19,Wednesday,19,3,2025,1
+417,StreamDev,2023-10-22 19:32:34,5,89,False,7,.io,Freemium,False,6,3,0,121,4.5,Viral,2023-10-22,Sunday,19,10,2023,4
+418,VisionStream,2024-09-09 19:32:34,6,136,True,5,.com,Paid,False,5,3,0,99,3.9,High,2024-09-09,Monday,19,9,2024,3
+419,SimpleApp,2025-03-25 19:32:34,10,90,False,10,.ai,Paid,False,4,1,0,74,2.6999999999999997,High,2025-03-25,Tuesday,19,3,2025,1
+420,MegaPulse,2024-11-08 19:32:34,12,99,True,2,.io,Freemium,False,1,0,0,22,0.6,Low,2024-11-08,Friday,19,11,2024,4
+421,SuperVision,2024-02-24 19:32:34,12,152,False,3,other,Free Trial,False,2,0,0,32,1.2,Medium,2024-02-24,Saturday,19,2,2024,1
+422,AutoScript,2023-12-30 19:32:34,2,67,False,1,.io,Free,False,2,0,0,37,1.2,Medium,2023-12-30,Saturday,19,12,2023,4
+423,ConnectSync,2025-02-19 19:32:34,3,59,False,0,.tech,Freemium,False,4,0,0,90,2.4,High,2025-02-19,Wednesday,19,2,2025,1
+424,QuickSmart,2024-08-01 19:32:34,3,97,True,7,other,Paid,False,0,0,0,0,0.0,Low,2024-08-01,Thursday,19,8,2024,3
+425,CodeAI,2023-10-03 19:32:34,12,119,False,0,.ai,Freemium,False,10,0,0,215,6.0,Viral,2023-10-03,Tuesday,19,10,2023,4
+426,NextSpark,2023-06-19 19:32:34,12,113,True,10,.io,Freemium,False,3,0,0,66,1.7999999999999998,Medium,2023-06-19,Monday,19,6,2023,2
+427,MegaLogic,2023-10-22 19:32:34,9,110,True,0,.app,Freemium,True,4,0,0,77,2.4,High,2023-10-22,Sunday,19,10,2023,4
+428,Data,2024-12-04 19:32:34,7,101,False,3,.ai,Free Trial,True,11,0,0,206,6.6,Viral,2024-12-04,Wednesday,19,12,2024,4
+429,WaveDev,2023-11-03 19:32:34,8,123,True,9,.io,Free Trial,False,9,3,1,169,6.399999999999999,Viral,2023-11-03,Friday,19,11,2023,4
+430,StreamCode,2025-02-28 19:32:34,11,30,False,9,.tech,Freemium,False,1,0,0,24,0.6,Low,2025-02-28,Friday,19,2,2025,1
+431,StreamPro,2023-09-26 19:32:34,10,77,True,5,.com,Paid,False,17,6,0,325,12.0,Viral,2023-09-26,Tuesday,19,9,2023,3
+432,HyperScript,2024-08-14 19:32:34,11,97,False,8,.com,Free Trial,False,6,4,0,116,4.8,Viral,2024-08-14,Wednesday,19,8,2024,3
+433,BoostDev,2023-10-27 19:32:34,9,121,False,0,.app,Free,True,3,1,0,64,2.0999999999999996,High,2023-10-27,Friday,19,10,2023,4
+434,QuickSpark,2025-03-13 19:32:34,6,144,False,6,.ai,Free,False,5,0,2,101,3.2,High,2025-03-13,Thursday,19,3,2025,1
+435,BotMeta,2025-03-16 19:32:34,4,73,False,9,.tech,Paid,False,0,0,0,0,0.0,Low,2025-03-16,Sunday,19,3,2025,1
+436,SmartSmart,2023-04-28 19:32:34,12,143,False,10,.io,Free Trial,False,12,5,0,238,8.7,Viral,2023-04-28,Friday,19,4,2023,2
+437,SyncPixel,2023-08-20 19:32:34,1,86,False,4,.io,Free Trial,True,6,3,1,136,4.6,Viral,2023-08-20,Sunday,19,8,2023,3
+438,Connect,2024-09-19 19:32:34,8,96,False,7,.com,Freemium,False,5,0,5,93,3.5,High,2024-09-19,Thursday,19,9,2024,3
+439,SmartWave,2023-08-25 19:32:34,7,117,False,6,.tech,Free,False,0,0,0,0,0.0,Low,2023-08-25,Friday,19,8,2023,3
+440,SparkBot,2025-01-03 19:32:34,2,93,False,3,other,Freemium,False,2,1,0,46,1.5,Medium,2025-01-03,Friday,19,1,2025,1
+441,DataQuick,2024-11-17 19:32:34,8,133,False,3,.app,Free,False,0,0,0,0,0.0,Low,2024-11-17,Sunday,19,11,2024,4
+442,Code,2024-12-17 19:32:34,12,87,False,5,.com,Free,False,4,4,0,80,3.5999999999999996,High,2024-12-17,Tuesday,19,12,2024,4
+443,InsightDeploy,2024-11-08 19:32:34,5,88,False,5,.com,Paid,False,7,0,0,134,4.2,High,2024-11-08,Friday,19,11,2024,4
+444,FlowPro,2023-08-14 19:32:34,7,131,False,8,.app,Free,False,2,0,0,37,1.2,Medium,2023-08-14,Monday,19,8,2023,3
+445,Tech,2024-11-17 19:32:34,4,77,False,4,.ai,Free Trial,True,6,5,0,115,5.1,Viral,2024-11-17,Sunday,19,11,2024,4
+446,Mind,2024-03-15 19:32:34,5,107,True,7,.io,Freemium,False,11,3,1,222,7.6,Viral,2024-03-15,Friday,19,3,2024,1
+447,Data,2024-09-21 19:32:34,8,50,True,4,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-09-21,Saturday,19,9,2024,3
+448,RapidInsight,2024-03-02 19:32:34,1,154,False,1,.tech,Free,False,1,0,0,21,0.6,Low,2024-03-02,Saturday,19,3,2024,1
+449,FlowVision,2025-04-05 19:32:34,1,136,True,5,other,Freemium,True,5,0,0,99,3.0,High,2025-04-05,Saturday,19,4,2025,2
+450,ScriptFlow,2024-02-23 19:32:34,4,182,False,8,.co,Free,False,3,4,0,55,3.0,High,2024-02-23,Friday,19,2,2024,1
+451,ProHub,2024-12-11 19:32:34,3,140,False,2,.co,Open Source,False,3,0,0,61,1.7999999999999998,Medium,2024-12-11,Wednesday,19,12,2024,4
+452,EasyDeploy,2024-12-12 19:32:34,10,66,False,0,.co,Free Trial,False,5,0,0,86,3.0,High,2024-12-12,Thursday,19,12,2024,4
+453,AutoDesign,2024-10-25 19:32:34,12,120,True,0,.app,Freemium,False,2,0,0,45,1.2,Medium,2024-10-25,Friday,19,10,2024,4
+454,Sync,2024-12-18 19:32:34,2,72,True,2,.com,Free,False,5,0,0,93,3.0,High,2024-12-18,Wednesday,19,12,2024,4
+455,PixelPixel,2025-03-15 19:32:34,12,147,False,9,other,Free Trial,True,1,0,0,21,0.6,Low,2025-03-15,Saturday,19,3,2025,1
+456,QuickDesign,2024-12-14 19:32:34,3,66,False,4,.ai,Freemium,False,9,6,0,162,7.199999999999999,Viral,2024-12-14,Saturday,19,12,2024,4
+457,DesignConnect,2025-03-15 19:32:34,11,65,False,2,.io,Free,True,1,0,0,21,0.6,Low,2025-03-15,Saturday,19,3,2025,1
+458,EasySmart,2024-01-27 19:32:34,11,51,False,8,.co,Freemium,False,3,5,0,53,3.3,High,2024-01-27,Saturday,19,1,2024,1
+459,VisionDev,2024-09-20 19:32:34,11,85,False,7,.ai,Free Trial,False,6,3,0,132,4.5,Viral,2024-09-20,Friday,19,9,2024,3
+460,CodePixel,2025-02-28 19:32:34,1,79,False,2,.co,Free,False,0,0,0,0,0.0,Low,2025-02-28,Friday,19,2,2025,1
+461,DesignMeta,2023-08-01 19:32:34,1,62,False,8,other,Free,False,8,4,0,139,6.0,Viral,2023-08-01,Tuesday,19,8,2023,3
+462,UltraConnect,2024-02-13 19:32:34,6,159,True,5,.co,Free Trial,True,15,3,3,296,10.200000000000001,Viral,2024-02-13,Tuesday,19,2,2024,1
+463,HyperQuick,2023-12-24 19:32:34,5,115,False,6,.io,Free,False,1,0,0,24,0.6,Low,2023-12-24,Sunday,19,12,2023,4
+464,ProSmart,2024-01-31 19:32:34,8,112,False,3,.tech,Free,False,2,1,0,33,1.5,Medium,2024-01-31,Wednesday,19,1,2024,1
+465,Insight,2024-09-05 19:32:34,2,147,False,3,.tech,Freemium,False,5,1,0,107,3.3,High,2024-09-05,Thursday,19,9,2024,3
+466,CloudAI,2024-05-08 19:32:34,4,107,True,1,other,Free Trial,False,0,0,0,0,0.0,Low,2024-05-08,Wednesday,19,5,2024,2
+467,DataScript,2024-10-01 19:32:34,8,77,False,4,.tech,Freemium,False,7,0,0,137,4.2,High,2024-10-01,Tuesday,19,10,2024,4
+468,Spark,2023-05-06 19:32:34,12,48,False,7,.app,Open Source,False,1,0,0,21,0.6,Low,2023-05-06,Saturday,19,5,2023,2
+469,WaveScript,2024-01-24 19:32:34,6,75,False,6,.com,Paid,False,1,0,0,17,0.6,Low,2024-01-24,Wednesday,19,1,2024,1
+470,Hub,2025-03-25 19:32:34,1,145,True,6,.app,Free,False,10,10,0,189,9.0,Viral,2025-03-25,Tuesday,19,3,2025,1
+471,SparkPro,2024-08-16 19:32:34,4,62,False,5,.ai,Open Source,False,6,0,0,122,3.5999999999999996,High,2024-08-16,Friday,19,8,2024,3
+472,Pro,2024-05-01 19:32:34,1,110,False,2,.app,Freemium,False,6,0,0,103,3.5999999999999996,High,2024-05-01,Wednesday,19,5,2024,2
+473,InsightStream,2024-11-10 19:32:34,2,131,False,4,.ai,Free,False,3,0,0,52,1.7999999999999998,Medium,2024-11-10,Sunday,19,11,2024,4
+474,Tech,2024-11-08 19:32:34,5,108,False,0,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-11-08,Friday,19,11,2024,4
+475,EasyPro,2025-02-12 19:32:34,8,111,False,6,.com,Freemium,False,12,5,0,239,8.7,Viral,2025-02-12,Wednesday,19,2,2025,1
+476,Quick,2023-07-24 19:32:34,8,119,False,8,.io,Free,False,1,0,0,20,0.6,Low,2023-07-24,Monday,19,7,2023,3
+477,DevAI,2023-07-06 19:32:34,11,111,False,0,other,Free,False,2,0,0,46,1.2,Medium,2023-07-06,Thursday,19,7,2023,3
+478,SuperSync,2025-01-08 19:32:34,3,148,False,1,.com,Freemium,False,3,0,0,66,1.7999999999999998,Medium,2025-01-08,Wednesday,19,1,2025,1
+479,Mind,2024-09-17 19:32:34,11,68,True,2,other,Free Trial,False,9,1,0,188,5.699999999999999,Viral,2024-09-17,Tuesday,19,9,2024,3
+480,DeepPro,2025-03-26 19:32:34,4,107,False,2,.tech,Freemium,False,8,0,0,157,4.8,Viral,2025-03-26,Wednesday,19,3,2025,1
+481,SmartCloud,2023-12-31 19:32:34,10,45,True,7,.tech,Open Source,False,10,1,1,227,6.3999999999999995,Viral,2023-12-31,Sunday,19,12,2023,4
+482,HyperPro,2024-07-22 19:32:34,11,37,False,6,.app,Free,False,2,0,0,42,1.2,Medium,2024-07-22,Monday,19,7,2024,3
+483,ProPulse,2023-10-28 19:32:34,6,97,True,5,.ai,Free,False,1,0,0,24,0.6,Low,2023-10-28,Saturday,19,10,2023,4
+484,EasyFlow,2023-08-18 19:32:34,11,116,True,9,.co,Free,True,17,26,8,333,18.8,Viral,2023-08-18,Friday,19,8,2023,3
+485,AutoHub,2024-10-03 19:32:34,11,148,False,9,.co,Free,False,6,12,0,107,7.199999999999999,Viral,2024-10-03,Thursday,19,10,2024,4
+486,Logic,2024-01-19 19:32:34,10,172,True,10,other,Free,False,3,0,0,59,1.7999999999999998,Medium,2024-01-19,Friday,19,1,2024,1
+487,ProPro,2024-12-05 19:32:34,3,139,False,3,.ai,Paid,False,11,0,0,214,6.6,Viral,2024-12-05,Thursday,19,12,2024,4
+488,BotScript,2024-08-31 19:32:34,2,121,True,8,other,Free Trial,False,0,0,0,0,0.0,Low,2024-08-31,Saturday,19,8,2024,3
+489,Pro,2023-08-30 19:32:34,6,104,False,0,.com,Open Source,False,3,1,0,60,2.0999999999999996,High,2023-08-30,Wednesday,19,8,2023,3
+490,Wave,2024-12-17 19:32:34,11,54,False,10,.io,Free,False,10,2,0,215,6.6,Viral,2024-12-17,Tuesday,19,12,2024,4
+491,NeoApp,2023-06-21 19:32:34,5,95,False,1,.com,Free Trial,False,2,1,0,45,1.5,Medium,2023-06-21,Wednesday,19,6,2023,2
+492,FastLogic,2023-07-15 19:32:34,10,138,False,3,.ai,Freemium,False,0,0,0,0,0.0,Low,2023-07-15,Saturday,19,7,2023,3
+493,ConnectCloud,2024-04-06 19:32:34,5,126,True,2,.ai,Free,False,3,0,0,55,1.7999999999999998,Medium,2024-04-06,Saturday,19,4,2024,2
+494,AppPixel,2024-10-25 19:32:34,10,61,False,0,.io,Free Trial,False,0,0,0,0,0.0,Low,2024-10-25,Friday,19,10,2024,4
+495,BoostApp,2024-03-14 19:32:34,5,118,True,4,other,Freemium,False,4,0,0,78,2.4,High,2024-03-14,Thursday,19,3,2024,1
+496,PixelInsight,2024-12-01 19:32:34,10,115,False,6,.app,Free,False,5,3,0,112,3.9,High,2024-12-01,Sunday,19,12,2024,4
+497,MegaQuick,2025-01-07 19:32:34,12,110,False,1,.app,Freemium,False,12,8,0,232,9.6,Viral,2025-01-07,Tuesday,19,1,2025,1
+498,MindWave,2024-11-08 19:32:34,5,99,False,4,.io,Free,True,3,0,0,47,1.7999999999999998,Medium,2024-11-08,Friday,19,11,2024,4
+499,Insight,2025-01-30 19:32:34,3,119,True,5,.app,Paid,False,12,1,0,214,7.499999999999999,Viral,2025-01-30,Thursday,19,1,2025,1
+500,App,2025-03-11 19:32:34,7,120,False,10,.co,Freemium,False,8,13,0,183,8.7,Viral,2025-03-11,Tuesday,19,3,2025,1
+501,MegaHub,2025-02-13 19:32:34,6,80,True,6,.app,Open Source,False,5,6,0,104,4.8,Viral,2025-02-13,Thursday,19,2,2025,1
+502,MegaBot,2024-06-01 19:32:34,4,113,False,0,.app,Free,False,0,1,0,0,0.3,Low,2024-06-01,Saturday,19,6,2024,2
+503,SparkScript,2024-03-24 19:32:34,2,94,False,6,.app,Freemium,False,3,0,0,56,1.7999999999999998,Medium,2024-03-24,Sunday,19,3,2024,1
+504,Smart,2024-08-11 19:32:34,12,55,False,3,.co,Freemium,True,9,2,6,184,6.6,Viral,2024-08-11,Sunday,19,8,2024,3
+505,SimplePulse,2023-07-20 19:32:34,9,83,True,7,other,Freemium,False,8,2,0,149,5.3999999999999995,Viral,2023-07-20,Thursday,19,7,2023,3
+506,QuickDev,2024-07-12 19:32:34,1,53,True,3,.app,Freemium,True,1,0,0,18,0.6,Low,2024-07-12,Friday,19,7,2024,3
+507,Dev,2025-04-02 19:32:34,11,129,False,5,.tech,Paid,False,6,0,0,129,3.5999999999999996,High,2025-04-02,Wednesday,19,4,2025,2
+508,Spark,2023-09-18 19:32:34,4,110,True,8,.co,Free Trial,False,7,0,0,157,4.2,High,2023-09-18,Monday,19,9,2023,3
+509,Logic,2023-05-24 19:32:34,1,89,True,4,.io,Free Trial,False,6,0,0,133,3.5999999999999996,High,2023-05-24,Wednesday,19,5,2023,2
+510,NextQuick,2024-06-11 19:32:34,6,142,False,3,.com,Free Trial,False,2,0,0,45,1.2,Medium,2024-06-11,Tuesday,19,6,2024,2
+511,BoostPulse,2025-02-24 19:32:34,4,102,True,7,.io,Free Trial,True,16,27,0,306,17.7,Viral,2025-02-24,Monday,19,2,2025,1
+512,MegaLogic,2024-10-07 19:32:34,5,57,True,8,.com,Freemium,False,5,0,0,103,3.0,High,2024-10-07,Monday,19,10,2024,4
+513,Stream,2023-09-30 19:32:34,5,86,False,3,.io,Free Trial,False,0,0,0,0,0.0,Low,2023-09-30,Saturday,19,9,2023,3
+514,Cloud,2024-11-17 19:32:34,9,148,False,2,.tech,Freemium,False,0,0,0,0,0.0,Low,2024-11-17,Sunday,19,11,2024,4
+515,MetaDesign,2024-06-28 19:32:34,1,79,True,7,.com,Freemium,False,2,0,0,39,1.2,Medium,2024-06-28,Friday,19,6,2024,2
+516,LogicStream,2024-04-25 19:32:34,2,108,True,4,.com,Freemium,False,9,11,0,178,8.7,Viral,2024-04-25,Thursday,19,4,2024,2
+517,InsightSmart,2024-11-15 19:32:34,6,122,False,1,.ai,Freemium,False,2,0,0,39,1.2,Medium,2024-11-15,Friday,19,11,2024,4
+518,Tech,2025-03-23 19:32:34,5,117,True,9,.com,Free,True,13,3,4,239,9.1,Viral,2025-03-23,Sunday,19,3,2025,1
+519,Vision,2024-05-25 19:32:34,11,173,False,8,.com,Open Source,False,4,0,0,77,2.4,High,2024-05-25,Saturday,19,5,2024,2
+520,DevPixel,2023-11-11 19:32:34,7,64,True,2,.ai,Freemium,False,0,0,0,0,0.0,Low,2023-11-11,Saturday,19,11,2023,4
+521,SmartSmart,2024-08-21 19:32:34,3,67,False,1,.app,Free,False,0,0,0,0,0.0,Low,2024-08-21,Wednesday,19,8,2024,3
+522,DesignSmart,2024-03-11 19:32:34,3,65,False,0,.app,Freemium,False,5,4,0,110,4.2,High,2024-03-11,Monday,19,3,2024,1
+523,Cloud,2023-08-11 19:32:34,10,91,False,7,.ai,Free,True,17,12,0,348,13.799999999999999,Viral,2023-08-11,Friday,19,8,2023,3
+524,App,2023-11-03 19:32:34,2,132,False,10,.co,Free,False,6,6,0,120,5.3999999999999995,Viral,2023-11-03,Friday,19,11,2023,4
+525,Pro,2024-06-14 19:32:34,3,69,False,2,.com,Free,False,3,2,0,62,2.4,High,2024-06-14,Friday,19,6,2024,2
+526,BoostFlow,2023-10-01 19:32:34,10,133,True,6,.com,Freemium,False,6,0,2,119,3.8,High,2023-10-01,Sunday,19,10,2023,4
+527,AutoDev,2024-10-16 19:32:34,1,101,True,0,.ai,Freemium,False,7,3,0,120,5.1,Viral,2024-10-16,Wednesday,19,10,2024,4
+528,SyncPro,2024-07-06 19:32:34,5,66,False,0,.ai,Paid,False,0,0,0,0,0.0,Low,2024-07-06,Saturday,19,7,2024,3
+529,FlowPro,2023-11-28 19:32:34,12,47,True,8,.co,Paid,False,5,1,0,95,3.3,High,2023-11-28,Tuesday,19,11,2023,4
+530,Quick,2023-11-26 19:32:34,5,54,True,7,.tech,Freemium,False,4,0,0,69,2.4,High,2023-11-26,Sunday,19,11,2023,4
+531,Stream,2023-09-04 19:32:34,12,80,False,2,.app,Freemium,False,1,0,0,20,0.6,Low,2023-09-04,Monday,19,9,2023,3
+532,Flow,2023-06-09 19:32:34,11,94,False,5,.io,Freemium,True,6,3,3,107,4.8,Viral,2023-06-09,Friday,19,6,2023,2
+533,Pro,2025-03-29 19:32:34,7,140,False,10,.tech,Paid,False,1,1,0,21,0.8999999999999999,Medium,2025-03-29,Saturday,19,3,2025,1
+534,MegaDesign,2024-05-22 19:32:34,4,123,False,2,other,Free,True,0,0,0,0,0.0,Low,2024-05-22,Wednesday,19,5,2024,2
+535,SmartConnect,2023-10-16 19:32:34,3,74,False,3,.app,Free,False,9,10,0,191,8.399999999999999,Viral,2023-10-16,Monday,19,10,2023,4
+536,Pro,2024-10-05 19:32:34,1,112,True,0,.com,Paid,False,0,0,0,0,0.0,Low,2024-10-05,Saturday,19,10,2024,4
+537,Cloud,2025-01-07 19:32:34,12,149,False,4,other,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2025-01-07,Tuesday,19,1,2025,1
+538,WaveCode,2024-12-25 19:32:34,8,156,True,0,.tech,Free,False,6,3,0,115,4.5,Viral,2024-12-25,Wednesday,19,12,2024,4
+539,DevData,2023-08-08 19:32:34,3,90,False,0,.ai,Free,False,3,0,0,59,1.7999999999999998,Medium,2023-08-08,Tuesday,19,8,2023,3
+540,DesignScript,2024-11-20 19:32:34,2,128,False,9,.co,Free Trial,False,5,0,0,100,3.0,High,2024-11-20,Wednesday,19,11,2024,4
+541,Bot,2025-01-15 19:32:34,11,141,False,10,.app,Free Trial,False,4,0,0,78,2.4,High,2025-01-15,Wednesday,19,1,2025,1
+542,SuperLogic,2023-07-23 19:32:34,4,54,False,10,.co,Paid,False,12,4,5,228,8.899999999999999,Viral,2023-07-23,Sunday,19,7,2023,3
+543,DataBot,2024-06-27 19:32:34,3,84,True,6,other,Freemium,False,10,7,0,206,8.1,Viral,2024-06-27,Thursday,19,6,2024,2
+544,RapidLogic,2023-11-08 19:32:34,1,166,False,5,.app,Freemium,False,8,0,2,150,5.0,Viral,2023-11-08,Wednesday,19,11,2023,4
+545,SimpleVision,2023-07-13 19:32:34,3,90,False,1,.tech,Open Source,False,2,0,0,44,1.2,Medium,2023-07-13,Thursday,19,7,2023,3
+546,FlowCode,2024-03-18 19:32:34,12,30,False,10,.com,Open Source,False,4,5,0,77,3.9,High,2024-03-18,Monday,19,3,2024,1
+547,TechBot,2025-03-25 19:32:34,2,96,False,1,.io,Free,False,3,0,0,54,1.7999999999999998,Medium,2025-03-25,Tuesday,19,3,2025,1
+548,NeoData,2023-08-25 19:32:34,8,133,False,10,.co,Free Trial,False,1,0,0,15,0.6,Low,2023-08-25,Friday,19,8,2023,3
+549,SimpleData,2024-09-30 19:32:34,6,100,True,6,.co,Free,False,8,0,0,166,4.8,Viral,2024-09-30,Monday,19,9,2024,3
+550,HyperDeploy,2023-09-17 19:32:34,9,121,True,0,.io,Free,False,1,0,0,24,0.6,Low,2023-09-17,Sunday,19,9,2023,3
+551,SuperMind,2023-07-31 19:32:34,8,128,False,1,.co,Paid,False,0,0,0,0,0.0,Low,2023-07-31,Monday,19,7,2023,3
+552,Logic,2023-12-08 19:32:34,10,89,False,7,.co,Freemium,True,3,0,0,61,1.7999999999999998,Medium,2023-12-08,Friday,19,12,2023,4
+553,UltraApp,2024-08-09 19:32:34,3,84,False,5,.app,Free Trial,False,6,2,0,115,4.199999999999999,High,2024-08-09,Friday,19,8,2024,3
+554,HyperQuick,2024-05-29 19:32:34,5,104,False,1,.app,Free,False,6,0,4,111,3.9999999999999996,High,2024-05-29,Wednesday,19,5,2024,2
+555,AI,2023-10-05 19:32:34,7,105,False,6,.io,Freemium,False,2,0,0,40,1.2,Medium,2023-10-05,Thursday,19,10,2023,4
+556,RapidVision,2024-03-16 19:32:34,5,101,False,3,other,Free Trial,False,0,0,0,0,0.0,Low,2024-03-16,Saturday,19,3,2024,1
+557,FlowPixel,2023-11-21 19:32:34,8,102,False,1,.com,Free Trial,False,5,0,0,102,3.0,High,2023-11-21,Tuesday,19,11,2023,4
+558,HubSync,2024-12-28 19:32:34,12,77,True,5,.tech,Free,False,3,3,0,59,2.6999999999999997,High,2024-12-28,Saturday,19,12,2024,4
+559,UltraAI,2024-09-25 19:32:34,5,122,False,10,.tech,Freemium,False,4,4,1,77,3.6999999999999997,High,2024-09-25,Wednesday,19,9,2024,3
+560,EasyDesign,2024-05-07 19:32:34,1,117,True,8,other,Freemium,False,6,4,0,124,4.8,Viral,2024-05-07,Tuesday,19,5,2024,2
+561,SmartPro,2025-01-22 19:32:34,5,59,True,10,.co,Free,False,26,7,7,486,18.4,Viral,2025-01-22,Wednesday,19,1,2025,1
+562,SmartQuick,2023-09-06 19:32:34,4,88,False,8,.com,Open Source,False,0,0,0,0,0.0,Low,2023-09-06,Wednesday,19,9,2023,3
+563,SparkPulse,2023-05-22 19:32:34,6,102,False,7,.io,Free Trial,False,3,0,0,55,1.7999999999999998,Medium,2023-05-22,Monday,19,5,2023,2
+564,SparkHub,2023-10-15 19:32:34,3,83,True,2,other,Free,False,1,0,0,21,0.6,Low,2023-10-15,Sunday,19,10,2023,4
+565,ConnectWave,2025-03-14 19:32:34,11,119,True,2,.io,Free,True,16,2,0,338,10.2,Viral,2025-03-14,Friday,19,3,2025,1
+566,AutoSpark,2024-11-07 19:32:34,5,97,True,1,.app,Free,False,5,2,0,85,3.6,High,2024-11-07,Thursday,19,11,2024,4
+567,MetaAI,2024-06-05 19:32:34,2,105,False,4,.co,Free Trial,False,5,2,0,94,3.6,High,2024-06-05,Wednesday,19,6,2024,2
+568,DeepData,2023-10-29 19:32:34,11,87,True,3,.ai,Free,False,7,4,6,137,6.0,Viral,2023-10-29,Sunday,19,10,2023,4
+569,Pro,2024-09-14 19:32:34,6,40,True,6,.io,Freemium,False,1,0,0,17,0.6,Low,2024-09-14,Saturday,19,9,2024,3
+570,SparkWave,2024-09-29 19:32:34,12,38,False,3,other,Freemium,False,0,0,0,0,0.0,Low,2024-09-29,Sunday,19,9,2024,3
+571,FastLogic,2024-12-10 19:32:34,6,117,False,8,.co,Freemium,False,6,2,0,107,4.199999999999999,High,2024-12-10,Tuesday,19,12,2024,4
+572,BoostDev,2023-05-13 19:32:34,5,108,False,1,.com,Free,True,0,0,0,0,0.0,Low,2023-05-13,Saturday,19,5,2023,2
+573,AIDeploy,2024-08-06 19:32:34,6,113,True,10,other,Free,False,3,0,0,53,1.7999999999999998,Medium,2024-08-06,Tuesday,19,8,2024,3
+574,RapidConnect,2023-12-22 19:32:34,11,104,False,5,.app,Free Trial,False,0,0,0,0,0.0,Low,2023-12-22,Friday,19,12,2023,4
+575,Design,2024-11-11 19:32:34,7,106,False,6,.tech,Free Trial,False,3,0,0,55,1.7999999999999998,Medium,2024-11-11,Monday,19,11,2024,4
+576,Sync,2024-10-01 19:32:34,12,129,False,3,.com,Paid,False,7,1,1,121,4.6,Viral,2024-10-01,Tuesday,19,10,2024,4
+577,MetaPro,2023-05-02 19:32:34,5,113,False,5,.io,Free,False,7,0,0,133,4.2,High,2023-05-02,Tuesday,19,5,2023,2
+578,Pro,2023-09-24 19:32:34,1,131,False,6,.io,Freemium,False,5,0,0,99,3.0,High,2023-09-24,Sunday,19,9,2023,3
+579,EasyScript,2024-02-22 19:32:34,8,105,True,3,.com,Freemium,False,2,0,0,42,1.2,Medium,2024-02-22,Thursday,19,2,2024,1
+580,MetaHub,2025-04-05 19:32:34,4,90,False,7,.io,Free,False,5,0,2,98,3.2,High,2025-04-05,Saturday,19,4,2025,2
+581,NextBot,2023-04-30 19:32:34,9,105,False,8,other,Free Trial,False,0,0,0,0,0.0,Low,2023-04-30,Sunday,19,4,2023,2
+582,Smart,2024-05-12 19:32:34,10,74,False,0,.co,Freemium,False,1,0,0,18,0.6,Low,2024-05-12,Sunday,19,5,2024,2
+583,BoostCloud,2024-02-24 19:32:34,12,88,True,6,.io,Free,True,6,8,0,122,6.0,Viral,2024-02-24,Saturday,19,2,2024,1
+584,DataVision,2024-09-26 19:32:34,6,105,True,8,.app,Free Trial,False,1,0,0,16,0.6,Low,2024-09-26,Thursday,19,9,2024,3
+585,RapidMeta,2024-06-14 19:32:34,1,104,False,9,.co,Open Source,True,1,1,0,19,0.8999999999999999,Medium,2024-06-14,Friday,19,6,2024,2
+586,PixelAI,2024-06-06 19:32:34,3,96,True,4,other,Free,False,9,0,0,171,5.3999999999999995,Viral,2024-06-06,Thursday,19,6,2024,2
+587,SyncConnect,2024-07-11 19:32:34,3,58,True,1,.ai,Freemium,False,4,0,0,75,2.4,High,2024-07-11,Thursday,19,7,2024,3
+588,QuickInsight,2023-12-02 19:32:34,10,119,False,9,.io,Freemium,False,4,1,0,77,2.6999999999999997,High,2023-12-02,Saturday,19,12,2023,4
+589,SyncQuick,2024-05-11 19:32:34,12,125,False,5,.io,Freemium,False,3,2,0,61,2.4,High,2024-05-11,Saturday,19,5,2024,2
+590,TechPro,2023-09-01 19:32:34,12,149,False,6,.app,Free,False,1,0,0,17,0.6,Low,2023-09-01,Friday,19,9,2023,3
+591,TechDesign,2024-03-11 19:32:34,4,113,False,1,other,Freemium,False,3,2,0,54,2.4,High,2024-03-11,Monday,19,3,2024,1
+592,SmartPixel,2023-05-11 19:32:34,6,100,False,1,.app,Open Source,True,4,2,0,89,3.0,High,2023-05-11,Thursday,19,5,2023,2
+593,StreamDeploy,2024-07-03 19:32:34,7,69,True,9,.tech,Freemium,False,3,0,0,55,1.7999999999999998,Medium,2024-07-03,Wednesday,19,7,2024,3
+594,InsightDesign,2023-09-24 19:32:34,10,144,True,9,other,Free,True,9,0,0,184,5.3999999999999995,Viral,2023-09-24,Sunday,19,9,2023,3
+595,Bot,2023-07-13 19:32:34,4,107,False,0,.com,Freemium,False,0,0,0,0,0.0,Low,2023-07-13,Thursday,19,7,2023,3
+596,EasyLogic,2023-08-26 19:32:34,6,105,False,3,.com,Freemium,False,2,0,0,41,1.2,Medium,2023-08-26,Saturday,19,8,2023,3
+597,EasyMeta,2023-04-29 19:32:34,11,92,False,6,.com,Free Trial,False,4,0,0,83,2.4,High,2023-04-29,Saturday,19,4,2023,2
+598,ScriptDesign,2024-10-12 19:32:34,1,90,True,8,.app,Freemium,False,2,0,0,39,1.2,Medium,2024-10-12,Saturday,19,10,2024,4
+599,DesignStream,2024-05-19 19:32:34,8,120,False,2,.com,Free,False,1,0,0,23,0.6,Low,2024-05-19,Sunday,19,5,2024,2
+600,TechScript,2024-11-24 19:32:34,7,69,False,10,other,Free,False,2,0,0,38,1.2,Medium,2024-11-24,Sunday,19,11,2024,4
+601,PixelApp,2024-02-17 19:32:34,11,148,False,6,.com,Paid,False,1,0,0,23,0.6,Low,2024-02-17,Saturday,19,2,2024,1
+602,DevConnect,2023-11-28 19:32:34,11,142,False,6,.ai,Free,True,3,0,0,64,1.7999999999999998,Medium,2023-11-28,Tuesday,19,11,2023,4
+603,DesignPro,2024-04-23 19:32:34,9,89,False,6,.com,Paid,True,5,0,0,88,3.0,High,2024-04-23,Tuesday,19,4,2024,2
+604,HubSync,2025-02-11 19:32:34,3,74,False,1,.io,Free,False,5,0,0,103,3.0,High,2025-02-11,Tuesday,19,2,2025,1
+605,ConnectMind,2024-09-21 19:32:34,2,39,False,5,.tech,Freemium,False,0,0,0,0,0.0,Low,2024-09-21,Saturday,19,9,2024,3
+606,QuickScript,2025-01-17 19:32:34,1,62,True,1,.app,Freemium,False,1,0,0,21,0.6,Low,2025-01-17,Friday,19,1,2025,1
+607,DevTech,2023-09-18 19:32:34,3,121,False,5,.co,Free Trial,False,0,0,0,0,0.0,Low,2023-09-18,Monday,19,9,2023,3
+608,DeployDesign,2025-04-03 19:32:34,5,109,False,9,.tech,Free Trial,False,12,6,0,234,9.0,Viral,2025-04-03,Thursday,19,4,2025,2
+609,MegaApp,2023-09-13 19:32:34,11,114,True,2,.ai,Free,False,8,0,0,162,4.8,Viral,2023-09-13,Wednesday,19,9,2023,3
+610,UltraScript,2023-09-30 19:32:34,2,44,False,1,.app,Freemium,False,4,4,0,72,3.5999999999999996,High,2023-09-30,Saturday,19,9,2023,3
+611,QuickDeploy,2023-09-14 19:32:34,12,88,False,5,other,Free,False,0,0,0,0,0.0,Low,2023-09-14,Thursday,19,9,2023,3
+612,BoostStream,2024-11-14 19:32:34,3,141,True,1,.app,Freemium,False,1,0,0,21,0.6,Low,2024-11-14,Thursday,19,11,2024,4
+613,DeepMind,2024-03-11 19:32:34,4,97,False,4,.io,Freemium,False,0,2,0,0,0.6,Low,2024-03-11,Monday,19,3,2024,1
+614,DeploySpark,2023-04-21 19:32:34,7,61,True,1,other,Free Trial,False,2,0,0,41,1.2,Medium,2023-04-21,Friday,19,4,2023,2
+615,App,2023-05-08 19:32:34,3,96,False,2,.tech,Free Trial,False,0,0,0,0,0.0,Low,2023-05-08,Monday,19,5,2023,2
+616,Script,2023-11-29 19:32:34,9,76,False,2,.tech,Freemium,False,5,2,1,109,3.7,High,2023-11-29,Wednesday,19,11,2023,4
+617,ConnectSync,2023-09-21 19:32:34,8,110,False,5,.com,Freemium,False,2,4,0,45,2.4,High,2023-09-21,Thursday,19,9,2023,3
+618,LogicPixel,2023-12-09 19:32:34,4,100,False,5,other,Free Trial,False,4,0,0,77,2.4,High,2023-12-09,Saturday,19,12,2023,4
+619,Cloud,2024-08-06 19:32:34,1,116,False,9,.io,Free Trial,False,5,3,2,108,4.1,High,2024-08-06,Tuesday,19,8,2024,3
+620,SuperFlow,2024-11-22 19:32:34,1,63,False,2,.com,Free,False,1,0,0,23,0.6,Low,2024-11-22,Friday,19,11,2024,4
+621,SparkSmart,2024-05-14 19:32:34,1,86,True,2,.com,Freemium,False,12,0,0,261,7.199999999999999,Viral,2024-05-14,Tuesday,19,5,2024,2
+622,VisionDesign,2025-03-02 19:32:34,1,132,False,0,.app,Freemium,False,0,1,0,0,0.3,Low,2025-03-02,Sunday,19,3,2025,1
+623,DataWave,2023-07-22 19:32:34,8,59,True,6,.tech,Free,False,0,0,0,0,0.0,Low,2023-07-22,Saturday,19,7,2023,3
+624,DevVision,2023-06-07 19:32:34,3,69,False,7,.com,Free,False,12,2,1,217,7.899999999999999,Viral,2023-06-07,Wednesday,19,6,2023,2
+625,NextSmart,2023-10-02 19:32:34,6,105,False,1,.ai,Free,False,0,0,0,0,0.0,Low,2023-10-02,Monday,19,10,2023,4
+626,PixelCloud,2024-02-07 19:32:34,3,108,True,3,.ai,Freemium,False,3,3,0,49,2.6999999999999997,High,2024-02-07,Wednesday,19,2,2024,1
+627,QuickVision,2023-08-16 19:32:34,11,85,False,9,.tech,Free,True,3,0,0,64,1.7999999999999998,Medium,2023-08-16,Wednesday,19,8,2023,3
+628,UltraDev,2025-04-05 19:32:34,5,91,True,6,.ai,Free,False,6,13,5,120,8.0,Viral,2025-04-05,Saturday,19,4,2025,2
+629,LogicBot,2025-02-23 19:32:34,7,115,True,7,.app,Free,False,4,0,0,88,2.4,High,2025-02-23,Sunday,19,2,2025,1
+630,DevScript,2023-10-31 19:32:34,2,125,False,0,.io,Free Trial,False,9,7,0,166,7.5,Viral,2023-10-31,Tuesday,19,10,2023,4
+631,EasyMeta,2023-11-26 19:32:34,6,67,True,3,.co,Free Trial,False,1,0,0,15,0.6,Low,2023-11-26,Sunday,19,11,2023,4
+632,Spark,2023-12-15 19:32:34,6,110,True,5,.com,Freemium,False,4,6,0,67,4.199999999999999,High,2023-12-15,Friday,19,12,2023,4
+633,HyperApp,2024-03-24 19:32:34,11,145,True,2,.co,Freemium,False,0,0,0,0,0.0,Low,2024-03-24,Sunday,19,3,2024,1
+634,ProSmart,2025-02-26 19:32:34,3,96,False,4,.io,Open Source,False,13,2,0,244,8.4,Viral,2025-02-26,Wednesday,19,2,2025,1
+635,SyncDesign,2023-07-27 19:32:34,6,67,True,9,.io,Free,False,10,6,0,197,7.8,Viral,2023-07-27,Thursday,19,7,2023,3
+636,HyperAI,2023-12-18 19:32:34,10,66,False,8,.app,Free,True,3,0,0,56,1.7999999999999998,Medium,2023-12-18,Monday,19,12,2023,4
+637,HyperCode,2024-11-09 19:32:34,10,95,True,10,.ai,Free,True,0,0,0,0,0.0,Low,2024-11-09,Saturday,19,11,2024,4
+638,DevWave,2024-03-05 19:32:34,5,131,False,2,.ai,Free,False,2,0,0,43,1.2,Medium,2024-03-05,Tuesday,19,3,2024,1
+639,StreamDesign,2023-10-23 19:32:34,12,98,False,4,.io,Freemium,False,0,0,0,0,0.0,Low,2023-10-23,Monday,19,10,2023,4
+640,WaveConnect,2023-08-22 19:32:34,2,105,True,7,.app,Free Trial,False,7,2,0,144,4.8,Viral,2023-08-22,Tuesday,19,8,2023,3
+641,AIWave,2025-02-11 19:32:34,9,70,False,5,.app,Freemium,False,0,0,0,0,0.0,Low,2025-02-11,Tuesday,19,2,2025,1
+642,AppSpark,2024-03-09 19:32:34,8,129,False,3,.tech,Freemium,False,0,0,0,0,0.0,Low,2024-03-09,Saturday,19,3,2024,1
+643,ConnectDesign,2025-03-08 19:32:34,3,65,False,7,other,Free Trial,False,3,0,0,49,1.7999999999999998,Medium,2025-03-08,Saturday,19,3,2025,1
+644,SparkPixel,2023-07-08 19:32:34,8,84,False,10,.com,Free,False,9,3,0,174,6.299999999999999,Viral,2023-07-08,Saturday,19,7,2023,3
+645,HubQuick,2023-06-14 19:32:34,9,118,True,2,other,Free,False,1,0,0,22,0.6,Low,2023-06-14,Wednesday,19,6,2023,2
+646,App,2024-03-18 19:32:34,3,38,False,2,.ai,Freemium,True,5,0,0,83,3.0,High,2024-03-18,Monday,19,3,2024,1
+647,NeoPro,2024-08-15 19:32:34,3,105,False,3,.io,Freemium,False,3,0,0,52,1.7999999999999998,Medium,2024-08-15,Thursday,19,8,2024,3
+648,ProLogic,2024-06-28 19:32:34,2,68,False,8,.tech,Free,False,2,0,0,39,1.2,Medium,2024-06-28,Friday,19,6,2024,2
+649,SimpleInsight,2023-06-11 19:32:34,8,100,False,4,.co,Freemium,False,4,0,0,80,2.4,High,2023-06-11,Sunday,19,6,2023,2
+650,SuperPulse,2024-03-02 19:32:34,10,89,False,7,.ai,Freemium,False,3,0,0,62,1.7999999999999998,Medium,2024-03-02,Saturday,19,3,2024,1
+651,SyncTech,2024-11-15 19:32:34,1,163,False,5,.com,Paid,False,8,1,0,168,5.1,Viral,2024-11-15,Friday,19,11,2024,4
+652,SuperMeta,2025-03-15 19:32:34,8,88,True,2,.app,Freemium,False,1,0,0,21,0.6,Low,2025-03-15,Saturday,19,3,2025,1
+653,DevSync,2024-09-14 19:32:34,7,155,True,7,.io,Freemium,False,2,0,0,46,1.2,Medium,2024-09-14,Saturday,19,9,2024,3
+654,MegaApp,2023-05-19 19:32:34,7,117,True,8,.ai,Free,False,20,9,5,415,15.2,Viral,2023-05-19,Friday,19,5,2023,2
+655,UltraBot,2024-05-22 19:32:34,3,75,False,7,.co,Freemium,False,13,4,0,261,9.0,Viral,2024-05-22,Wednesday,19,5,2024,2
+656,DevHub,2025-03-12 19:32:34,1,109,False,3,.com,Free,False,4,0,0,80,2.4,High,2025-03-12,Wednesday,19,3,2025,1
+657,AIPro,2025-01-14 19:32:34,4,90,False,10,.com,Free Trial,False,0,0,0,0,0.0,Low,2025-01-14,Tuesday,19,1,2025,1
+658,CloudDesign,2023-09-27 19:32:34,9,107,False,5,.tech,Freemium,False,2,0,0,34,1.2,Medium,2023-09-27,Wednesday,19,9,2023,3
+659,ProPixel,2024-04-20 19:32:34,5,78,False,0,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-04-20,Saturday,19,4,2024,2
+660,BoostConnect,2024-11-05 19:32:34,1,150,False,3,.co,Paid,False,0,0,0,0,0.0,Low,2024-11-05,Tuesday,19,11,2024,4
+661,CloudApp,2025-02-05 19:32:34,5,127,False,7,.com,Freemium,False,4,5,0,76,3.9,High,2025-02-05,Wednesday,19,2,2025,1
+662,Script,2024-09-21 19:32:34,8,100,False,0,.io,Freemium,False,3,0,0,56,1.7999999999999998,Medium,2024-09-21,Saturday,19,9,2024,3
+663,QuickStream,2025-04-13 19:32:34,8,151,False,2,.com,Free Trial,False,0,0,0,0,0.0,Low,2025-04-13,Sunday,19,4,2025,2
+664,HubPixel,2023-12-25 19:32:34,5,102,False,0,.co,Free Trial,False,1,0,0,15,0.6,Low,2023-12-25,Monday,19,12,2023,4
+665,FlowCode,2023-05-17 19:32:34,12,132,False,8,.app,Paid,False,7,0,0,141,4.2,High,2023-05-17,Wednesday,19,5,2023,2
+666,TechCode,2024-10-10 19:32:34,9,101,False,1,.app,Free,False,3,0,0,61,1.7999999999999998,Medium,2024-10-10,Thursday,19,10,2024,4
+667,QuickAI,2024-04-21 19:32:34,1,111,False,8,.tech,Freemium,False,6,0,0,126,3.5999999999999996,High,2024-04-21,Sunday,19,4,2024,2
+668,VisionConnect,2024-01-08 19:32:34,4,97,False,3,.ai,Paid,False,2,1,0,39,1.5,Medium,2024-01-08,Monday,19,1,2024,1
+669,FlowHub,2024-03-16 19:32:34,3,102,False,1,.co,Free,False,4,2,0,84,3.0,High,2024-03-16,Saturday,19,3,2024,1
+670,MindCode,2024-05-23 19:32:34,2,105,True,3,.tech,Free,False,2,0,0,39,1.2,Medium,2024-05-23,Thursday,19,5,2024,2
+671,AIDeploy,2024-09-01 19:32:34,8,79,False,10,other,Free Trial,False,4,0,0,90,2.4,High,2024-09-01,Sunday,19,9,2024,3
+672,Insight,2024-03-16 19:32:34,7,87,True,10,.com,Free,False,0,0,0,0,0.0,Low,2024-03-16,Saturday,19,3,2024,1
+673,DeployWave,2023-08-22 19:32:34,9,93,False,9,other,Paid,False,3,0,0,59,1.7999999999999998,Medium,2023-08-22,Tuesday,19,8,2023,3
+674,BoostSmart,2023-11-13 19:32:34,2,106,False,5,.com,Freemium,True,10,1,0,180,6.3,Viral,2023-11-13,Monday,19,11,2023,4
+675,FastApp,2024-07-22 19:32:34,4,99,False,10,.app,Freemium,False,5,0,3,96,3.3,High,2024-07-22,Monday,19,7,2024,3
+676,Mind,2023-11-15 19:32:34,6,135,True,6,.tech,Free,True,11,5,0,215,8.1,Viral,2023-11-15,Wednesday,19,11,2023,4
+677,CodeSmart,2024-05-15 19:32:34,11,125,False,2,.app,Free Trial,False,1,0,0,16,0.6,Low,2024-05-15,Wednesday,19,5,2024,2
+678,CodePixel,2023-09-04 19:32:34,3,94,False,2,.io,Freemium,False,3,0,0,54,1.7999999999999998,Medium,2023-09-04,Monday,19,9,2023,3
+679,Wave,2024-07-29 19:32:34,8,141,True,9,other,Freemium,False,6,0,0,117,3.5999999999999996,High,2024-07-29,Monday,19,7,2024,3
+680,Pixel,2023-04-26 19:32:34,3,156,False,7,other,Paid,False,3,1,0,55,2.0999999999999996,High,2023-04-26,Wednesday,19,4,2023,2
+681,Deploy,2025-04-11 19:32:34,12,38,False,4,.app,Paid,False,0,0,0,0,0.0,Low,2025-04-11,Friday,19,4,2025,2
+682,ScriptDesign,2025-02-04 19:32:34,2,127,False,3,.io,Open Source,True,21,11,12,398,17.099999999999998,Viral,2025-02-04,Tuesday,19,2,2025,1
+683,VisionAI,2024-05-30 19:32:34,3,79,True,6,.com,Freemium,False,6,2,2,106,4.3999999999999995,Viral,2024-05-30,Thursday,19,5,2024,2
+684,RapidData,2025-02-16 19:32:34,11,124,False,6,.tech,Freemium,False,2,0,0,41,1.2,Medium,2025-02-16,Sunday,19,2,2025,1
+685,Pro,2024-07-23 19:32:34,6,137,False,8,.io,Open Source,False,4,0,0,84,2.4,High,2024-07-23,Tuesday,19,7,2024,3
+686,BoostMind,2023-07-16 19:32:34,2,73,False,8,.tech,Freemium,False,0,0,0,0,0.0,Low,2023-07-16,Sunday,19,7,2023,3
+687,ProDev,2024-02-18 19:32:34,8,44,False,4,other,Free,False,2,0,0,43,1.2,Medium,2024-02-18,Sunday,19,2,2024,1
+688,DevAI,2023-06-21 19:32:34,1,125,True,7,.tech,Free,True,8,0,0,163,4.8,Viral,2023-06-21,Wednesday,19,6,2023,2
+689,EasyMind,2023-12-19 19:32:34,7,104,True,9,other,Free Trial,False,14,2,0,306,9.0,Viral,2023-12-19,Tuesday,19,12,2023,4
+690,DeploySpark,2024-12-17 19:32:34,2,49,True,0,.io,Freemium,True,30,14,1,622,22.3,Viral,2024-12-17,Tuesday,19,12,2024,4
+691,DataDesign,2024-08-31 19:32:34,10,175,False,8,other,Paid,False,0,0,0,0,0.0,Low,2024-08-31,Saturday,19,8,2024,3
+692,NeoPulse,2024-03-10 19:32:34,12,118,True,7,.ai,Freemium,False,5,1,0,94,3.3,High,2024-03-10,Sunday,19,3,2024,1
+693,SimpleAI,2025-01-11 19:32:34,6,120,True,5,other,Free,False,4,0,0,82,2.4,High,2025-01-11,Saturday,19,1,2025,1
+694,AIHub,2023-11-18 19:32:34,12,140,False,2,.app,Freemium,False,5,0,0,107,3.0,High,2023-11-18,Saturday,19,11,2023,4
+695,PixelBot,2024-08-12 19:32:34,2,82,True,2,.io,Free,False,4,4,1,80,3.6999999999999997,High,2024-08-12,Monday,19,8,2024,3
+696,NeoPixel,2023-11-17 19:32:34,2,103,True,7,.com,Freemium,False,1,0,0,16,0.6,Low,2023-11-17,Friday,19,11,2023,4
+697,SyncVision,2024-11-13 19:32:34,10,60,False,4,.tech,Freemium,False,2,0,0,35,1.2,Medium,2024-11-13,Wednesday,19,11,2024,4
+698,NextFlow,2025-04-14 19:32:34,8,81,True,9,.co,Freemium,False,0,0,0,0,0.0,Low,2025-04-14,Monday,19,4,2025,2
+699,MetaLogic,2025-03-12 19:32:34,12,111,False,10,.io,Paid,False,9,0,0,169,5.3999999999999995,Viral,2025-03-12,Wednesday,19,3,2025,1
+700,QuickBot,2023-12-26 19:32:34,2,50,False,6,.app,Free Trial,False,0,0,0,0,0.0,Low,2023-12-26,Tuesday,19,12,2023,4
+701,UltraMeta,2023-04-27 19:32:34,7,80,False,4,other,Paid,False,3,0,0,58,1.7999999999999998,Medium,2023-04-27,Thursday,19,4,2023,2
+702,VisionMeta,2023-09-15 19:32:34,3,72,False,7,.tech,Free,False,0,0,0,0,0.0,Low,2023-09-15,Friday,19,9,2023,3
+703,SyncPixel,2025-02-07 19:32:34,8,104,False,9,.ai,Free,False,12,4,0,239,8.399999999999999,Viral,2025-02-07,Friday,19,2,2025,1
+704,CodeDev,2025-02-22 19:32:34,7,117,False,9,.com,Freemium,False,2,0,0,36,1.2,Medium,2025-02-22,Saturday,19,2,2025,1
+705,TechLogic,2023-09-24 19:32:34,8,122,False,3,.ai,Free Trial,False,2,2,0,36,1.7999999999999998,Medium,2023-09-24,Sunday,19,9,2023,3
+706,Pro,2023-05-29 19:32:34,7,129,False,1,.co,Free Trial,False,6,3,0,110,4.5,Viral,2023-05-29,Monday,19,5,2023,2
+707,BotBot,2023-09-22 19:32:34,11,141,False,2,.io,Free Trial,False,0,0,0,0,0.0,Low,2023-09-22,Friday,19,9,2023,3
+708,Vision,2024-08-12 19:32:34,6,118,False,7,.tech,Freemium,False,5,0,0,93,3.0,High,2024-08-12,Monday,19,8,2024,3
+709,SparkLogic,2023-05-01 19:32:34,7,156,False,10,.io,Freemium,False,7,5,0,140,5.7,Viral,2023-05-01,Monday,19,5,2023,2
+710,NeoPulse,2025-02-01 19:32:34,5,103,True,6,.app,Freemium,False,1,0,0,20,0.6,Low,2025-02-01,Saturday,19,2,2025,1
+711,SimpleCloud,2024-05-02 19:32:34,7,94,True,1,.io,Free,False,9,0,0,194,5.3999999999999995,Viral,2024-05-02,Thursday,19,5,2024,2
+712,BoostVision,2024-03-30 19:32:34,1,118,True,5,.com,Free,False,3,0,0,61,1.7999999999999998,Medium,2024-03-30,Saturday,19,3,2024,1
+713,MegaDev,2023-08-31 19:32:34,1,93,False,8,.co,Free Trial,False,4,5,0,72,3.9,High,2023-08-31,Thursday,19,8,2023,3
+714,DevDev,2023-07-17 19:32:34,9,155,False,3,.ai,Free,False,5,1,0,85,3.3,High,2023-07-17,Monday,19,7,2023,3
+715,AppScript,2024-05-09 19:32:34,5,133,False,8,.co,Free,False,2,0,0,37,1.2,Medium,2024-05-09,Thursday,19,5,2024,2
+716,Pulse,2023-05-01 19:32:34,5,122,False,1,.tech,Free,False,9,1,0,182,5.699999999999999,Viral,2023-05-01,Monday,19,5,2023,2
+717,Deploy,2024-12-12 19:32:34,3,103,False,1,.io,Free Trial,False,3,0,0,48,1.7999999999999998,Medium,2024-12-12,Thursday,19,12,2024,4
+718,Cloud,2023-04-25 19:32:34,5,87,True,8,.tech,Freemium,False,1,0,0,22,0.6,Low,2023-04-25,Tuesday,19,4,2023,2
+719,ScriptDesign,2025-03-12 19:32:34,3,121,True,6,.ai,Paid,False,6,6,0,119,5.3999999999999995,Viral,2025-03-12,Wednesday,19,3,2025,1
+720,NeoQuick,2023-05-06 19:32:34,9,66,False,6,.tech,Free Trial,False,3,3,0,58,2.6999999999999997,High,2023-05-06,Saturday,19,5,2023,2
+721,Connect,2024-12-14 19:32:34,9,146,False,0,.app,Freemium,False,0,0,0,0,0.0,Low,2024-12-14,Saturday,19,12,2024,4
+722,PixelAI,2024-07-30 19:32:34,6,94,False,10,.co,Freemium,False,2,0,0,33,1.2,Medium,2024-07-30,Tuesday,19,7,2024,3
+723,InsightWave,2023-08-28 19:32:34,1,109,False,5,.ai,Free,False,3,0,0,67,1.7999999999999998,Medium,2023-08-28,Monday,19,8,2023,3
+724,BoostMind,2024-06-01 19:32:34,7,72,True,6,.ai,Free,False,1,0,0,24,0.6,Low,2024-06-01,Saturday,19,6,2024,2
+725,SuperApp,2023-08-11 19:32:34,7,121,False,10,other,Free Trial,True,3,4,0,62,3.0,High,2023-08-11,Friday,19,8,2023,3
+726,Bot,2025-03-30 19:32:34,10,86,False,5,.ai,Paid,False,1,0,0,16,0.6,Low,2025-03-30,Sunday,19,3,2025,1
+727,HubSync,2024-06-11 19:32:34,10,119,True,5,other,Freemium,False,4,0,0,85,2.4,High,2024-06-11,Tuesday,19,6,2024,2
+728,SuperStream,2023-05-29 19:32:34,4,122,False,1,.com,Freemium,False,0,0,0,0,0.0,Low,2023-05-29,Monday,19,5,2023,2
+729,WaveTech,2023-08-02 19:32:34,8,80,False,5,other,Freemium,False,3,3,0,62,2.6999999999999997,High,2023-08-02,Wednesday,19,8,2023,3
+730,PulseSync,2025-01-20 19:32:34,6,66,False,3,.co,Free,False,2,0,0,33,1.2,Medium,2025-01-20,Monday,19,1,2025,1
+731,PulseVision,2023-08-29 19:32:34,4,145,False,8,.tech,Free,False,5,0,0,94,3.0,High,2023-08-29,Tuesday,19,8,2023,3
+732,Deploy,2024-04-19 19:32:34,4,94,False,0,other,Free,True,2,0,0,37,1.2,Medium,2024-04-19,Friday,19,4,2024,2
+733,EasyFlow,2024-07-27 19:32:34,2,106,True,7,.ai,Free,False,4,0,0,84,2.4,High,2024-07-27,Saturday,19,7,2024,3
+734,AutoTech,2023-05-27 19:32:34,2,114,False,4,.co,Free Trial,False,2,0,0,34,1.2,Medium,2023-05-27,Saturday,19,5,2023,2
+735,SyncTech,2023-06-24 19:32:34,12,62,False,0,other,Free,False,0,0,0,0,0.0,Low,2023-06-24,Saturday,19,6,2023,2
+736,Meta,2025-01-12 19:32:34,4,113,True,3,other,Free,False,2,0,0,45,1.2,Medium,2025-01-12,Sunday,19,1,2025,1
+737,DesignApp,2023-08-17 19:32:34,5,102,True,0,.ai,Freemium,False,5,6,0,87,4.8,Viral,2023-08-17,Thursday,19,8,2023,3
+738,Connect,2025-03-26 19:32:34,8,80,False,5,.app,Free Trial,False,5,2,0,96,3.6,High,2025-03-26,Wednesday,19,3,2025,1
+739,DevData,2025-02-27 19:32:34,6,65,False,1,.app,Free,False,0,0,0,0,0.0,Low,2025-02-27,Thursday,19,2,2025,1
+740,TechConnect,2023-11-02 19:32:34,4,118,True,4,other,Free,False,4,4,0,75,3.5999999999999996,High,2023-11-02,Thursday,19,11,2023,4
+741,QuickStream,2023-07-19 19:32:34,11,133,False,6,.app,Freemium,False,3,0,0,69,1.7999999999999998,Medium,2023-07-19,Wednesday,19,7,2023,3
+742,ScriptHub,2024-08-12 19:32:34,7,105,False,1,.io,Paid,False,0,0,0,0,0.0,Low,2024-08-12,Monday,19,8,2024,3
+743,NextLogic,2023-07-04 19:32:34,8,56,True,5,.ai,Freemium,False,0,0,0,0,0.0,Low,2023-07-04,Tuesday,19,7,2023,3
+744,UltraCloud,2023-04-19 19:32:34,2,68,True,5,.io,Free Trial,False,3,0,0,68,1.7999999999999998,Medium,2023-04-19,Wednesday,19,4,2023,2
+745,DevBot,2024-07-25 19:32:34,12,87,False,4,.co,Open Source,False,2,0,0,39,1.2,Medium,2024-07-25,Thursday,19,7,2024,3
+746,Wave,2023-08-11 19:32:34,7,146,True,4,.io,Paid,False,4,0,0,80,2.4,High,2023-08-11,Friday,19,8,2023,3
+747,MindDeploy,2024-12-12 19:32:34,2,92,False,2,.co,Freemium,False,2,0,0,40,1.2,Medium,2024-12-12,Thursday,19,12,2024,4
+748,RapidCode,2025-01-25 19:32:34,2,85,True,9,other,Freemium,False,3,1,0,64,2.0999999999999996,High,2025-01-25,Saturday,19,1,2025,1
+749,Hub,2024-08-13 19:32:34,8,49,False,9,.co,Free,False,14,2,0,252,9.0,Viral,2024-08-13,Tuesday,19,8,2024,3
+750,BoostLogic,2024-02-09 19:32:34,2,80,False,10,.co,Open Source,False,0,0,0,0,0.0,Low,2024-02-09,Friday,19,2,2024,1
+751,FlowAI,2024-07-22 19:32:34,11,63,False,1,.tech,Freemium,False,4,0,0,72,2.4,High,2024-07-22,Monday,19,7,2024,3
+752,AI,2023-11-19 19:32:34,9,69,False,6,.io,Free,False,0,0,0,0,0.0,Low,2023-11-19,Sunday,19,11,2023,4
+753,FastMeta,2024-05-28 19:32:34,12,103,False,0,.tech,Paid,False,5,0,0,94,3.0,High,2024-05-28,Tuesday,19,5,2024,2
+754,PixelHub,2025-03-17 19:32:34,1,87,False,5,other,Free,False,6,5,0,116,5.1,Viral,2025-03-17,Monday,19,3,2025,1
+755,PixelFlow,2023-10-27 19:32:34,9,150,False,5,.ai,Freemium,False,10,5,1,187,7.6,Viral,2023-10-27,Friday,19,10,2023,4
+756,FastInsight,2024-07-03 19:32:34,1,132,True,2,.io,Freemium,False,0,0,0,0,0.0,Low,2024-07-03,Wednesday,19,7,2024,3
+757,BoostPulse,2024-01-22 19:32:34,10,81,False,1,.ai,Freemium,False,2,0,0,48,1.2,Medium,2024-01-22,Monday,19,1,2024,1
+758,SimpleInsight,2024-12-24 19:32:34,10,72,True,1,.ai,Free Trial,True,14,6,0,294,10.2,Viral,2024-12-24,Tuesday,19,12,2024,4
+759,Quick,2024-05-16 19:32:34,2,141,False,8,.co,Free,False,3,0,1,62,1.9,Medium,2024-05-16,Thursday,19,5,2024,2
+760,NextSmart,2025-01-30 19:32:34,6,149,False,10,.io,Freemium,False,10,10,0,197,9.0,Viral,2025-01-30,Thursday,19,1,2025,1
+761,MindVision,2023-10-22 19:32:34,6,34,False,4,.ai,Freemium,False,5,0,0,115,3.0,High,2023-10-22,Sunday,19,10,2023,4
+762,CloudApp,2023-05-21 19:32:34,1,102,True,6,.app,Paid,False,3,0,0,57,1.7999999999999998,Medium,2023-05-21,Sunday,19,5,2023,2
+763,WaveVision,2024-08-02 19:32:34,7,92,False,4,.ai,Paid,False,0,0,0,0,0.0,Low,2024-08-02,Friday,19,8,2024,3
+764,DevScript,2024-07-31 19:32:34,8,119,False,6,.app,Freemium,False,11,0,3,214,6.8999999999999995,Viral,2024-07-31,Wednesday,19,7,2024,3
+765,PulseCode,2024-08-28 19:32:34,2,158,False,3,.io,Freemium,True,11,7,0,220,8.7,Viral,2024-08-28,Wednesday,19,8,2024,3
+766,NextSync,2024-08-13 19:32:34,8,85,False,7,other,Free,False,6,6,0,107,5.3999999999999995,Viral,2024-08-13,Tuesday,19,8,2024,3
+767,MegaConnect,2024-01-13 19:32:34,9,38,True,10,.tech,Free Trial,False,6,2,0,105,4.199999999999999,High,2024-01-13,Saturday,19,1,2024,1
+768,Code,2024-04-06 19:32:34,6,117,False,9,.io,Freemium,False,0,0,0,0,0.0,Low,2024-04-06,Saturday,19,4,2024,2
+769,MindTech,2024-01-13 19:32:34,5,141,False,10,.tech,Paid,False,0,0,0,0,0.0,Low,2024-01-13,Saturday,19,1,2024,1
+770,Connect,2024-01-22 19:32:34,12,90,False,9,.tech,Free,True,10,4,0,204,7.2,Viral,2024-01-22,Monday,19,1,2024,1
+771,DesignConnect,2023-09-08 19:32:34,9,78,False,6,.io,Free,False,4,5,0,79,3.9,High,2023-09-08,Friday,19,9,2023,3
+772,Insight,2023-12-21 19:32:34,12,86,True,9,.ai,Freemium,False,13,4,0,237,9.0,Viral,2023-12-21,Thursday,19,12,2023,4
+773,HubPixel,2023-12-13 19:32:34,11,125,True,4,.com,Free Trial,False,4,0,0,75,2.4,High,2023-12-13,Wednesday,19,12,2023,4
+774,MindInsight,2023-10-30 19:32:34,9,86,False,10,.ai,Freemium,False,2,0,0,38,1.2,Medium,2023-10-30,Monday,19,10,2023,4
+775,DeepMind,2025-01-15 19:32:34,1,109,True,5,.ai,Free Trial,False,8,10,1,175,7.8999999999999995,Viral,2025-01-15,Wednesday,19,1,2025,1
+776,DesignHub,2024-05-04 19:32:34,11,100,False,4,other,Freemium,False,2,0,0,44,1.2,Medium,2024-05-04,Saturday,19,5,2024,2
+777,MetaScript,2024-07-29 19:32:34,3,97,False,6,.co,Freemium,False,8,0,0,166,4.8,Viral,2024-07-29,Monday,19,7,2024,3
+778,UltraPulse,2025-03-25 19:32:34,9,121,True,1,.co,Free,False,3,0,0,65,1.7999999999999998,Medium,2025-03-25,Tuesday,19,3,2025,1
+779,FastSpark,2024-02-11 19:32:34,11,85,False,4,.ai,Free Trial,False,0,0,0,0,0.0,Low,2024-02-11,Sunday,19,2,2024,1
+780,EasyAI,2024-02-08 19:32:34,2,87,True,9,.app,Free,False,0,0,0,0,0.0,Low,2024-02-08,Thursday,19,2,2024,1
+781,AutoCloud,2025-04-06 19:32:34,12,123,False,2,other,Free Trial,False,0,0,0,0,0.0,Low,2025-04-06,Sunday,19,4,2025,2
+782,SuperFlow,2023-10-14 19:32:34,4,70,True,8,.tech,Free Trial,False,3,0,0,57,1.7999999999999998,Medium,2023-10-14,Saturday,19,10,2023,4
+783,SparkPro,2024-01-22 19:32:34,4,73,True,5,.co,Free Trial,False,4,0,0,71,2.4,High,2024-01-22,Monday,19,1,2024,1
+784,CloudTech,2024-09-28 19:32:34,2,62,False,9,.ai,Freemium,False,0,1,0,0,0.3,Low,2024-09-28,Saturday,19,9,2024,3
+785,StreamCode,2024-01-30 19:32:34,3,125,False,2,other,Paid,False,0,0,0,0,0.0,Low,2024-01-30,Tuesday,19,1,2024,1
+786,Code,2024-10-29 19:32:34,3,96,False,6,.com,Paid,False,4,1,0,72,2.6999999999999997,High,2024-10-29,Tuesday,19,10,2024,4
+787,UltraMind,2024-06-30 19:32:34,1,60,False,3,.app,Free,False,0,0,0,0,0.0,Low,2024-06-30,Sunday,19,6,2024,2
+788,NextDev,2023-05-10 19:32:34,6,125,False,2,.io,Freemium,True,2,0,0,35,1.2,Medium,2023-05-10,Wednesday,19,5,2023,2
+789,NextApp,2023-07-15 19:32:34,8,83,False,7,.ai,Free,False,5,0,0,91,3.0,High,2023-07-15,Saturday,19,7,2023,3
+790,Wave,2025-02-27 19:32:34,12,73,False,3,other,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2025-02-27,Thursday,19,2,2025,1
+791,ProInsight,2024-09-14 19:32:34,3,94,False,10,.ai,Free,False,3,0,0,62,1.7999999999999998,Medium,2024-09-14,Saturday,19,9,2024,3
+792,DevTech,2023-04-27 19:32:34,5,144,False,0,.tech,Free,False,0,0,0,0,0.0,Low,2023-04-27,Thursday,19,4,2023,2
+793,SuperStream,2025-01-16 19:32:34,1,88,False,5,.app,Freemium,False,3,2,0,59,2.4,High,2025-01-16,Thursday,19,1,2025,1
+794,RapidDev,2024-06-23 19:32:34,10,117,False,9,.co,Freemium,False,7,6,1,145,6.1,Viral,2024-06-23,Sunday,19,6,2024,2
+795,ConnectApp,2024-10-20 19:32:34,7,121,False,10,.co,Freemium,False,3,3,0,60,2.6999999999999997,High,2024-10-20,Sunday,19,10,2024,4
+796,Dev,2024-08-16 19:32:34,10,113,False,10,.co,Free,False,5,3,0,97,3.9,High,2024-08-16,Friday,19,8,2024,3
+797,App,2024-01-14 19:32:34,1,138,False,0,.io,Freemium,False,0,0,0,0,0.0,Low,2024-01-14,Sunday,19,1,2024,1
+798,BoostSync,2024-06-24 19:32:34,12,78,False,4,other,Free,False,0,0,0,0,0.0,Low,2024-06-24,Monday,19,6,2024,2
+799,SimpleMind,2023-12-17 19:32:34,11,68,True,6,.app,Freemium,False,9,4,0,182,6.6,Viral,2023-12-17,Sunday,19,12,2023,4
+800,Code,2024-04-21 19:32:34,9,68,False,5,.app,Freemium,False,5,0,0,86,3.0,High,2024-04-21,Sunday,19,4,2024,2
+801,SmartPixel,2023-09-26 19:32:34,8,95,True,1,.co,Freemium,False,5,0,0,88,3.0,High,2023-09-26,Tuesday,19,9,2023,3
+802,CloudWave,2024-04-26 19:32:34,7,71,False,10,.co,Paid,False,5,0,0,96,3.0,High,2024-04-26,Friday,19,4,2024,2
+803,DevDesign,2023-07-24 19:32:34,10,104,True,3,.tech,Freemium,False,2,0,0,40,1.2,Medium,2023-07-24,Monday,19,7,2023,3
+804,NextSmart,2023-05-29 19:32:34,7,102,False,10,.com,Paid,False,0,0,0,0,0.0,Low,2023-05-29,Monday,19,5,2023,2
+805,FastPulse,2025-03-01 19:32:34,5,130,True,1,.com,Freemium,False,0,0,0,0,0.0,Low,2025-03-01,Saturday,19,3,2025,1
+806,SuperDev,2025-02-13 19:32:34,5,108,True,10,.ai,Freemium,False,14,28,7,298,17.5,Viral,2025-02-13,Thursday,19,2,2025,1
+807,Wave,2025-04-13 19:32:34,11,87,False,0,.ai,Freemium,False,4,2,0,80,3.0,High,2025-04-13,Sunday,19,4,2025,2
+808,Mind,2024-03-23 19:32:34,5,112,False,2,.app,Free,False,0,0,0,0,0.0,Low,2024-03-23,Saturday,19,3,2024,1
+809,FastVision,2024-04-19 19:32:34,1,69,True,2,.app,Paid,False,2,0,1,33,1.3,Medium,2024-04-19,Friday,19,4,2024,2
+810,AISpark,2025-01-06 19:32:34,8,98,False,6,.io,Freemium,False,5,1,0,85,3.3,High,2025-01-06,Monday,19,1,2025,1
+811,Logic,2024-06-15 19:32:34,12,109,False,0,.io,Freemium,True,2,0,0,36,1.2,Medium,2024-06-15,Saturday,19,6,2024,2
+812,Vision,2024-02-09 19:32:34,11,103,True,8,.com,Free,False,2,0,0,40,1.2,Medium,2024-02-09,Friday,19,2,2024,1
+813,DesignScript,2024-01-18 19:32:34,1,112,True,10,.ai,Free,False,4,4,0,80,3.5999999999999996,High,2024-01-18,Thursday,19,1,2024,1
+814,Wave,2024-03-01 19:32:34,4,80,False,5,.com,Free Trial,False,3,0,0,60,1.7999999999999998,Medium,2024-03-01,Friday,19,3,2024,1
+815,Hub,2023-05-31 19:32:34,9,134,False,3,.com,Paid,False,5,1,0,98,3.3,High,2023-05-31,Wednesday,19,5,2023,2
+816,AutoApp,2023-05-16 19:32:34,9,154,True,2,.ai,Free,False,9,3,0,171,6.299999999999999,Viral,2023-05-16,Tuesday,19,5,2023,2
+817,SmartScript,2024-10-19 19:32:34,5,51,False,2,other,Freemium,False,0,0,0,0,0.0,Low,2024-10-19,Saturday,19,10,2024,4
+818,LogicVision,2024-02-28 19:32:34,4,63,False,1,.io,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2024-02-28,Wednesday,19,2,2024,1
+819,SparkDesign,2024-11-08 19:32:34,3,101,False,1,.tech,Free Trial,True,0,0,0,0,0.0,Low,2024-11-08,Friday,19,11,2024,4
+820,AIAI,2024-06-27 19:32:34,3,92,False,9,.tech,Free,False,5,1,0,106,3.3,High,2024-06-27,Thursday,19,6,2024,2
+821,Sync,2023-10-30 19:32:34,12,156,False,4,.tech,Free,False,1,0,0,24,0.6,Low,2023-10-30,Monday,19,10,2023,4
+822,AppConnect,2023-09-03 19:32:34,5,106,False,8,.ai,Free Trial,False,2,0,0,35,1.2,Medium,2023-09-03,Sunday,19,9,2023,3
+823,ConnectHub,2023-09-24 19:32:34,10,141,False,1,.co,Free,False,0,0,0,0,0.0,Low,2023-09-24,Sunday,19,9,2023,3
+824,MetaApp,2024-11-28 19:32:34,1,38,False,1,.co,Free,False,3,1,1,58,2.1999999999999997,High,2024-11-28,Thursday,19,11,2024,4
+825,UltraBot,2023-08-21 19:32:34,5,124,False,5,.co,Open Source,False,7,0,1,133,4.3,Viral,2023-08-21,Monday,19,8,2023,3
+826,App,2024-12-14 19:32:34,6,78,False,9,.app,Freemium,True,15,3,0,284,9.9,Viral,2024-12-14,Saturday,19,12,2024,4
+827,DesignStream,2023-05-29 19:32:34,7,78,True,1,.io,Free,False,3,0,0,66,1.7999999999999998,Medium,2023-05-29,Monday,19,5,2023,2
+828,QuickPulse,2024-12-04 19:32:34,12,92,False,3,.io,Free,False,6,0,3,131,3.8999999999999995,High,2024-12-04,Wednesday,19,12,2024,4
+829,ProPro,2025-01-19 19:32:34,9,57,False,5,other,Free,False,0,0,0,0,0.0,Low,2025-01-19,Sunday,19,1,2025,1
+830,UltraPulse,2024-10-16 19:32:34,3,113,False,4,other,Free,False,6,1,2,113,4.1,High,2024-10-16,Wednesday,19,10,2024,4
+831,WaveScript,2024-02-01 19:32:34,2,105,False,0,.app,Free Trial,False,2,0,0,39,1.2,Medium,2024-02-01,Thursday,19,2,2024,1
+832,FastDev,2023-04-17 19:32:34,3,107,False,5,.com,Freemium,False,7,0,0,126,4.2,High,2023-04-17,Monday,19,4,2023,2
+833,MindVision,2024-10-06 19:32:34,12,126,True,0,other,Paid,False,2,0,0,35,1.2,Medium,2024-10-06,Sunday,19,10,2024,4
+834,HubVision,2024-07-10 19:32:34,9,145,False,2,.tech,Free Trial,False,5,0,0,94,3.0,High,2024-07-10,Wednesday,19,7,2024,3
+835,FastDev,2023-08-26 19:32:34,12,89,False,9,.co,Freemium,False,2,1,0,38,1.5,Medium,2023-08-26,Saturday,19,8,2023,3
+836,UltraSync,2024-06-24 19:32:34,7,114,True,4,.tech,Free,False,0,0,0,0,0.0,Low,2024-06-24,Monday,19,6,2024,2
+837,Cloud,2024-03-17 19:32:34,9,108,True,9,.co,Freemium,False,3,0,0,50,1.7999999999999998,Medium,2024-03-17,Sunday,19,3,2024,1
+838,ScriptVision,2023-07-19 19:32:34,2,111,False,4,.tech,Free Trial,False,0,0,0,0,0.0,Low,2023-07-19,Wednesday,19,7,2023,3
+839,DevPro,2024-05-14 19:32:34,5,111,True,9,.com,Free Trial,False,2,2,0,36,1.7999999999999998,Medium,2024-05-14,Tuesday,19,5,2024,2
+840,ProApp,2024-12-23 19:32:34,4,147,True,5,.tech,Free,False,7,0,0,135,4.2,High,2024-12-23,Monday,19,12,2024,4
+841,PulseCloud,2024-08-11 19:32:34,2,86,False,9,.tech,Paid,False,1,0,0,24,0.6,Low,2024-08-11,Sunday,19,8,2024,3
+842,SuperFlow,2024-12-10 19:32:34,9,54,False,7,.ai,Freemium,False,3,0,0,62,1.7999999999999998,Medium,2024-12-10,Tuesday,19,12,2024,4
+843,QuickConnect,2023-07-24 19:32:34,9,79,False,4,.tech,Free Trial,False,3,0,0,52,1.7999999999999998,Medium,2023-07-24,Monday,19,7,2023,3
+844,App,2024-02-10 19:32:34,6,122,False,10,.ai,Free,False,0,0,0,0,0.0,Low,2024-02-10,Saturday,19,2,2024,1
+845,SmartSmart,2025-03-09 19:32:34,11,100,True,0,.io,Freemium,False,1,0,0,19,0.6,Low,2025-03-09,Sunday,19,3,2025,1
+846,SimpleStream,2023-12-12 19:32:34,6,85,False,4,.app,Free Trial,False,2,2,0,45,1.7999999999999998,Medium,2023-12-12,Tuesday,19,12,2023,4
+847,BotVision,2023-04-29 19:32:34,8,67,False,2,.tech,Freemium,False,2,1,0,38,1.5,Medium,2023-04-29,Saturday,19,4,2023,2
+848,Mind,2024-06-12 19:32:34,6,106,False,3,.io,Freemium,True,15,0,4,321,9.4,Viral,2024-06-12,Wednesday,19,6,2024,2
+849,NextLogic,2024-11-24 19:32:34,1,119,False,7,other,Free,False,0,0,0,0,0.0,Low,2024-11-24,Sunday,19,11,2024,4
+850,MegaSmart,2024-10-22 19:32:34,4,109,False,6,other,Free,False,15,6,0,320,10.8,Viral,2024-10-22,Tuesday,19,10,2024,4
+851,PixelHub,2024-03-09 19:32:34,7,92,False,10,.ai,Freemium,False,4,2,1,77,3.1,High,2024-03-09,Saturday,19,3,2024,1
+852,NeoDesign,2023-06-11 19:32:34,2,104,False,4,.tech,Free Trial,False,0,0,0,0,0.0,Low,2023-06-11,Sunday,19,6,2023,2
+853,DeployStream,2025-02-24 19:32:34,9,104,False,1,.tech,Free,False,0,0,0,0,0.0,Low,2025-02-24,Monday,19,2,2025,1
+854,Meta,2023-05-03 19:32:34,8,105,False,5,.com,Freemium,False,2,1,0,36,1.5,Medium,2023-05-03,Wednesday,19,5,2023,2
+855,HubSmart,2024-08-28 19:32:34,8,64,False,10,.io,Paid,False,3,0,0,56,1.7999999999999998,Medium,2024-08-28,Wednesday,19,8,2024,3
+856,QuickPro,2023-09-29 19:32:34,7,105,False,5,.co,Free,False,4,0,0,80,2.4,High,2023-09-29,Friday,19,9,2023,3
+857,FlowSpark,2024-07-04 19:32:34,4,86,False,9,.co,Freemium,False,5,0,0,114,3.0,High,2024-07-04,Thursday,19,7,2024,3
+858,DevPulse,2024-06-29 19:32:34,2,131,False,9,.com,Paid,True,8,3,0,178,5.699999999999999,Viral,2024-06-29,Saturday,19,6,2024,2
+859,SmartSpark,2024-01-30 19:32:34,3,103,False,10,.ai,Free Trial,False,4,0,0,78,2.4,High,2024-01-30,Tuesday,19,1,2024,1
+860,StreamScript,2024-07-13 19:32:34,12,125,False,5,.co,Freemium,False,1,0,0,15,0.6,Low,2024-07-13,Saturday,19,7,2024,3
+861,QuickData,2024-12-09 19:32:34,6,90,False,8,.co,Paid,False,1,0,0,23,0.6,Low,2024-12-09,Monday,19,12,2024,4
+862,UltraTech,2024-12-30 19:32:34,12,92,False,10,other,Free,False,4,9,0,84,5.1,Viral,2024-12-30,Monday,19,12,2024,4
+863,NeoWave,2024-01-26 19:32:34,12,144,False,7,other,Free Trial,False,2,0,0,40,1.2,Medium,2024-01-26,Friday,19,1,2024,1
+864,DevLogic,2024-03-11 19:32:34,5,113,False,7,.app,Free,False,0,0,0,0,0.0,Low,2024-03-11,Monday,19,3,2024,1
+865,SmartConnect,2023-10-25 19:32:34,12,78,False,0,.io,Paid,False,2,0,0,42,1.2,Medium,2023-10-25,Wednesday,19,10,2023,4
+866,ProQuick,2024-11-03 19:32:34,8,126,False,4,.ai,Free,False,11,8,0,223,9.0,Viral,2024-11-03,Sunday,19,11,2024,4
+867,ConnectSpark,2023-04-22 19:32:34,6,84,False,6,.tech,Free Trial,False,2,0,0,35,1.2,Medium,2023-04-22,Saturday,19,4,2023,2
+868,SyncApp,2023-07-13 19:32:34,6,106,False,5,.io,Paid,True,19,4,0,394,12.6,Viral,2023-07-13,Thursday,19,7,2023,3
+869,Bot,2024-01-23 19:32:34,1,155,False,4,.ai,Paid,False,0,0,0,0,0.0,Low,2024-01-23,Tuesday,19,1,2024,1
+870,Pulse,2024-01-13 19:32:34,4,57,True,7,.co,Free,False,1,0,0,23,0.6,Low,2024-01-13,Saturday,19,1,2024,1
+871,CodeMeta,2024-08-19 19:32:34,5,94,False,2,.app,Freemium,False,7,1,0,130,4.5,Viral,2024-08-19,Monday,19,8,2024,3
+872,MindConnect,2024-09-11 19:32:34,12,112,False,5,.io,Freemium,False,4,0,2,80,2.6,High,2024-09-11,Wednesday,19,9,2024,3
+873,UltraData,2024-07-13 19:32:34,11,122,False,4,.co,Paid,False,1,0,0,15,0.6,Low,2024-07-13,Saturday,19,7,2024,3
+874,SimpleLogic,2025-04-07 19:32:34,3,62,False,7,.ai,Free,False,8,1,1,155,5.199999999999999,Viral,2025-04-07,Monday,19,4,2025,2
+875,PixelMeta,2024-06-13 19:32:34,9,53,False,3,.io,Open Source,False,0,0,0,0,0.0,Low,2024-06-13,Thursday,19,6,2024,2
+876,MetaConnect,2023-09-27 19:32:34,1,132,False,7,.tech,Free Trial,False,13,2,5,256,8.9,Viral,2023-09-27,Wednesday,19,9,2023,3
+877,QuickPulse,2024-06-20 19:32:34,6,78,False,9,.io,Free,False,4,0,0,78,2.4,High,2024-06-20,Thursday,19,6,2024,2
+878,DeepQuick,2024-10-03 19:32:34,6,77,False,1,.co,Free Trial,False,1,0,0,15,0.6,Low,2024-10-03,Thursday,19,10,2024,4
+879,FlowAI,2023-07-27 19:32:34,10,146,False,8,.io,Freemium,False,9,4,0,183,6.6,Viral,2023-07-27,Thursday,19,7,2023,3
+880,CloudSpark,2024-04-10 19:32:34,5,102,True,8,.tech,Freemium,False,4,3,0,79,3.3,High,2024-04-10,Wednesday,19,4,2024,2
+881,PulseHub,2024-07-24 19:32:34,12,102,False,9,.app,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2024-07-24,Wednesday,19,7,2024,3
+882,HyperMeta,2024-08-25 19:32:34,5,94,False,9,.app,Freemium,False,4,2,0,93,3.0,High,2024-08-25,Sunday,19,8,2024,3
+883,AppQuick,2023-06-07 19:32:34,10,63,False,5,.co,Paid,False,1,1,0,15,0.8999999999999999,Medium,2023-06-07,Wednesday,19,6,2023,2
+884,CloudPro,2024-04-30 19:32:34,5,120,False,3,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-04-30,Tuesday,19,4,2024,2
+885,BoostLogic,2023-08-05 19:32:34,6,112,False,3,.co,Freemium,False,3,0,0,62,1.7999999999999998,Medium,2023-08-05,Saturday,19,8,2023,3
+886,DevCode,2025-01-22 19:32:34,8,105,True,5,.app,Paid,False,6,0,0,113,3.5999999999999996,High,2025-01-22,Wednesday,19,1,2025,1
+887,SmartData,2025-03-19 19:32:34,2,96,False,4,.com,Paid,False,8,4,0,163,6.0,Viral,2025-03-19,Wednesday,19,3,2025,1
+888,TechSmart,2023-07-01 19:32:34,6,91,True,5,.com,Free,False,2,0,0,43,1.2,Medium,2023-07-01,Saturday,19,7,2023,3
+889,AppInsight,2024-02-05 19:32:34,1,127,False,6,.io,Free Trial,True,6,0,0,123,3.5999999999999996,High,2024-02-05,Monday,19,2,2024,1
+890,DesignDesign,2024-10-05 19:32:34,4,95,False,6,.tech,Freemium,False,5,2,0,110,3.6,High,2024-10-05,Saturday,19,10,2024,4
+891,AutoMeta,2025-01-28 19:32:34,10,98,False,8,other,Free,False,0,0,0,0,0.0,Low,2025-01-28,Tuesday,19,1,2025,1
+892,Code,2024-10-22 19:32:34,3,115,False,7,other,Free,False,5,4,0,105,4.2,High,2024-10-22,Tuesday,19,10,2024,4
+893,Vision,2025-02-22 19:32:34,9,106,True,5,other,Freemium,False,4,3,0,76,3.3,High,2025-02-22,Saturday,19,2,2025,1
+894,DesignSmart,2024-02-24 19:32:34,3,149,True,5,.io,Free Trial,False,0,0,0,0,0.0,Low,2024-02-24,Saturday,19,2,2024,1
+895,UltraApp,2023-08-28 19:32:34,6,47,False,4,.com,Freemium,False,3,5,0,68,3.3,High,2023-08-28,Monday,19,8,2023,3
+896,QuickVision,2024-09-09 19:32:34,1,108,True,0,.app,Paid,False,3,1,1,55,2.1999999999999997,High,2024-09-09,Monday,19,9,2024,3
+897,FlowWave,2023-06-20 19:32:34,12,78,False,8,.io,Free,False,3,4,0,59,3.0,High,2023-06-20,Tuesday,19,6,2023,2
+898,Script,2023-04-17 19:32:34,6,71,True,8,other,Freemium,False,4,5,0,84,3.9,High,2023-04-17,Monday,19,4,2023,2
+899,ProCode,2024-08-29 19:32:34,4,86,False,8,other,Open Source,False,2,0,0,46,1.2,Medium,2024-08-29,Thursday,19,8,2024,3
+900,AIDesign,2024-05-24 19:32:34,8,101,False,10,.co,Paid,False,6,5,0,111,5.1,Viral,2024-05-24,Friday,19,5,2024,2
+901,WaveWave,2023-12-01 19:32:34,11,102,True,7,other,Free,True,3,0,0,64,1.7999999999999998,Medium,2023-12-01,Friday,19,12,2023,4
+902,SparkData,2025-03-27 19:32:34,9,54,False,9,.tech,Freemium,True,17,6,5,337,12.5,Viral,2025-03-27,Thursday,19,3,2025,1
+903,MetaPro,2023-10-29 19:32:34,4,83,False,2,other,Free,True,3,0,0,64,1.7999999999999998,Medium,2023-10-29,Sunday,19,10,2023,4
+904,DevQuick,2024-09-09 19:32:34,10,108,True,0,.co,Freemium,False,0,0,0,0,0.0,Low,2024-09-09,Monday,19,9,2024,3
+905,QuickVision,2023-11-26 19:32:34,12,73,False,10,other,Paid,True,1,0,0,18,0.6,Low,2023-11-26,Sunday,19,11,2023,4
+906,Design,2024-12-10 19:32:34,10,66,False,7,.tech,Paid,False,4,2,0,76,3.0,High,2024-12-10,Tuesday,19,12,2024,4
+907,Logic,2024-12-06 19:32:34,6,32,False,6,.app,Free,False,2,0,0,38,1.2,Medium,2024-12-06,Friday,19,12,2024,4
+908,DeployCloud,2024-11-02 19:32:34,1,80,True,4,.io,Free Trial,False,0,0,0,0,0.0,Low,2024-11-02,Saturday,19,11,2024,4
+909,DeployDesign,2024-11-24 19:32:34,4,65,False,9,.tech,Freemium,False,1,0,0,24,0.6,Low,2024-11-24,Sunday,19,11,2024,4
+910,BotWave,2025-01-24 19:32:34,7,70,True,6,.co,Freemium,False,1,0,0,19,0.6,Low,2025-01-24,Friday,19,1,2025,1
+911,FastMeta,2023-12-30 19:32:34,12,91,True,9,.io,Freemium,False,0,0,0,0,0.0,Low,2023-12-30,Saturday,19,12,2023,4
+912,MindMeta,2023-09-03 19:32:34,1,82,False,3,.io,Freemium,False,2,0,0,40,1.2,Medium,2023-09-03,Sunday,19,9,2023,3
+913,AutoInsight,2024-05-18 19:32:34,8,65,False,8,.co,Freemium,False,1,0,0,17,0.6,Low,2024-05-18,Saturday,19,5,2024,2
+914,SuperWave,2023-08-21 19:32:34,12,36,False,10,.com,Freemium,False,5,0,0,88,3.0,High,2023-08-21,Monday,19,8,2023,3
+915,HyperStream,2023-06-26 19:32:34,10,109,False,9,other,Freemium,False,3,0,0,58,1.7999999999999998,Medium,2023-06-26,Monday,19,6,2023,2
+916,SmartConnect,2024-03-20 19:32:34,12,122,True,1,.tech,Free,False,4,0,0,68,2.4,High,2024-03-20,Wednesday,19,3,2024,1
+917,QuickAI,2023-08-07 19:32:34,11,88,False,8,.co,Free Trial,False,0,0,0,0,0.0,Low,2023-08-07,Monday,19,8,2023,3
+918,Pro,2024-10-11 19:32:34,6,92,True,8,.app,Freemium,False,0,0,0,0,0.0,Low,2024-10-11,Friday,19,10,2024,4
+919,SmartCloud,2023-07-18 19:32:34,5,100,True,4,.ai,Free,False,0,0,0,0,0.0,Low,2023-07-18,Tuesday,19,7,2023,3
+920,AIInsight,2024-02-01 19:32:34,10,147,False,10,.co,Paid,False,3,0,0,66,1.7999999999999998,Medium,2024-02-01,Thursday,19,2,2024,1
+921,Pulse,2024-01-02 19:32:34,11,52,False,0,other,Free Trial,False,0,0,0,0,0.0,Low,2024-01-02,Tuesday,19,1,2024,1
+922,DeepPulse,2024-03-18 19:32:34,9,87,False,6,other,Free Trial,True,16,12,1,335,13.299999999999999,Viral,2024-03-18,Monday,19,3,2024,1
+923,Quick,2024-02-02 19:32:34,2,48,True,9,.io,Freemium,False,5,1,0,101,3.3,High,2024-02-02,Friday,19,2,2024,1
+924,SimpleBot,2024-11-22 19:32:34,5,110,False,9,.io,Free,False,3,0,0,55,1.7999999999999998,Medium,2024-11-22,Friday,19,11,2024,4
+925,NextMeta,2024-02-03 19:32:34,6,95,False,3,.co,Freemium,False,3,1,1,59,2.1999999999999997,High,2024-02-03,Saturday,19,2,2024,1
+926,StreamSpark,2024-11-01 19:32:34,7,106,True,8,.ai,Free,False,2,0,0,43,1.2,Medium,2024-11-01,Friday,19,11,2024,4
+927,DataVision,2023-09-02 19:32:34,5,104,False,5,.co,Free Trial,False,0,0,0,0,0.0,Low,2023-09-02,Saturday,19,9,2023,3
+928,NextPro,2024-03-25 19:32:34,9,129,True,2,.ai,Free,False,3,0,0,65,1.7999999999999998,Medium,2024-03-25,Monday,19,3,2024,1
+929,HyperQuick,2024-04-10 19:32:34,1,116,False,5,.ai,Free,False,1,0,0,17,0.6,Low,2024-04-10,Wednesday,19,4,2024,2
+930,HubDev,2024-09-13 19:32:34,7,124,False,9,other,Freemium,True,6,6,0,122,5.3999999999999995,Viral,2024-09-13,Friday,19,9,2024,3
+931,InsightHub,2024-03-28 19:32:34,10,68,True,5,other,Freemium,False,5,0,0,98,3.0,High,2024-03-28,Thursday,19,3,2024,1
+932,Bot,2023-12-29 19:32:34,7,135,False,4,other,Paid,False,0,0,0,0,0.0,Low,2023-12-29,Friday,19,12,2023,4
+933,AI,2024-06-29 19:32:34,4,78,False,1,.app,Freemium,False,0,0,0,0,0.0,Low,2024-06-29,Saturday,19,6,2024,2
+934,UltraQuick,2024-05-25 19:32:34,9,80,True,9,other,Free,False,10,1,0,199,6.3,Viral,2024-05-25,Saturday,19,5,2024,2
+935,StreamTech,2023-08-26 19:32:34,12,108,False,9,.tech,Free,True,0,0,0,0,0.0,Low,2023-08-26,Saturday,19,8,2023,3
+936,DevStream,2023-05-12 19:32:34,11,109,False,1,.io,Freemium,False,1,0,0,15,0.6,Low,2023-05-12,Friday,19,5,2023,2
+937,VisionSmart,2023-07-07 19:32:34,5,67,True,6,.io,Free,False,7,3,5,140,5.6,Viral,2023-07-07,Friday,19,7,2023,3
+938,Hub,2024-10-11 19:32:34,4,94,False,1,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-10-11,Friday,19,10,2024,4
+939,SyncApp,2025-02-05 19:32:34,7,144,False,5,.io,Freemium,False,5,0,0,90,3.0,High,2025-02-05,Wednesday,19,2,2025,1
+940,EasyTech,2025-02-02 19:32:34,4,55,False,4,.com,Paid,False,3,0,0,61,1.7999999999999998,Medium,2025-02-02,Sunday,19,2,2025,1
+941,InsightMind,2023-11-20 19:32:34,3,144,False,3,.ai,Free Trial,False,0,0,0,0,0.0,Low,2023-11-20,Monday,19,11,2023,4
+942,SimpleMind,2024-07-26 19:32:34,9,92,False,6,.io,Free Trial,False,4,2,0,82,3.0,High,2024-07-26,Friday,19,7,2024,3
+943,SmartPulse,2024-08-18 19:32:34,11,30,False,7,.com,Free Trial,False,1,0,0,22,0.6,Low,2024-08-18,Sunday,19,8,2024,3
+944,Cloud,2024-06-18 19:32:34,8,58,False,3,.app,Free,False,1,0,0,18,0.6,Low,2024-06-18,Tuesday,19,6,2024,2
+945,SmartBot,2025-04-13 19:32:34,1,71,False,0,.io,Free,True,1,0,0,21,0.6,Low,2025-04-13,Sunday,19,4,2025,2
+946,SyncQuick,2024-10-22 19:32:34,7,81,False,0,.com,Freemium,False,12,2,0,239,7.799999999999999,Viral,2024-10-22,Tuesday,19,10,2024,4
+947,MindBot,2024-03-08 19:32:34,9,96,False,0,.co,Free Trial,False,0,0,0,0,0.0,Low,2024-03-08,Friday,19,3,2024,1
+948,Cloud,2023-06-06 19:32:34,8,30,True,10,.tech,Open Source,False,4,0,0,74,2.4,High,2023-06-06,Tuesday,19,6,2023,2
+949,Pixel,2024-02-14 19:32:34,8,105,False,0,.co,Free Trial,False,5,2,0,118,3.6,High,2024-02-14,Wednesday,19,2,2024,1
+950,QuickApp,2023-06-29 19:32:34,6,68,False,4,.com,Free,False,9,10,0,179,8.399999999999999,Viral,2023-06-29,Thursday,19,6,2023,2
+951,ProSync,2025-01-16 19:32:34,11,141,True,3,.ai,Free Trial,False,4,6,0,78,4.199999999999999,High,2025-01-16,Thursday,19,1,2025,1
+952,SuperInsight,2023-05-10 19:32:34,4,91,True,8,other,Freemium,False,3,0,0,49,1.7999999999999998,Medium,2023-05-10,Wednesday,19,5,2023,2
+953,DesignFlow,2023-05-23 19:32:34,8,128,False,2,other,Free,False,12,3,0,235,8.1,Viral,2023-05-23,Tuesday,19,5,2023,2
+954,App,2024-09-06 19:32:34,3,133,False,6,other,Freemium,False,4,0,0,82,2.4,High,2024-09-06,Friday,19,9,2024,3
+955,QuickStream,2024-08-14 19:32:34,9,132,False,10,.ai,Free,False,1,0,0,20,0.6,Low,2024-08-14,Wednesday,19,8,2024,3
+956,MindConnect,2025-04-06 19:32:34,2,83,False,7,.io,Freemium,False,0,0,0,0,0.0,Low,2025-04-06,Sunday,19,4,2025,2
+957,UltraScript,2024-09-16 19:32:34,2,82,False,5,other,Freemium,True,3,0,0,54,1.7999999999999998,Medium,2024-09-16,Monday,19,9,2024,3
+958,DevVision,2023-08-05 19:32:34,12,93,False,9,.co,Freemium,False,4,6,0,79,4.199999999999999,High,2023-08-05,Saturday,19,8,2023,3
+959,StreamLogic,2025-01-20 19:32:34,12,119,True,0,.ai,Freemium,False,0,0,0,0,0.0,Low,2025-01-20,Monday,19,1,2025,1
+960,SmartWave,2024-06-28 19:32:34,7,84,True,7,.ai,Free Trial,False,11,21,3,211,13.2,Viral,2024-06-28,Friday,19,6,2024,2
+961,SparkConnect,2024-10-07 19:32:34,12,96,False,9,other,Paid,False,7,3,0,137,5.1,Viral,2024-10-07,Monday,19,10,2024,4
+962,FastTech,2024-02-03 19:32:34,10,108,False,2,.co,Freemium,False,1,0,0,19,0.6,Low,2024-02-03,Saturday,19,2,2024,1
+963,DevApp,2023-06-28 19:32:34,4,72,True,7,.app,Free Trial,False,1,0,0,20,0.6,Low,2023-06-28,Wednesday,19,6,2023,2
+964,CloudLogic,2024-07-08 19:32:34,10,70,False,3,.ai,Free Trial,False,3,2,0,56,2.4,High,2024-07-08,Monday,19,7,2024,3
+965,DeploySpark,2023-04-18 19:32:34,8,95,True,7,other,Free,True,14,3,6,292,9.9,Viral,2023-04-18,Tuesday,19,4,2023,2
+966,CloudBot,2023-05-09 19:32:34,9,99,False,10,.tech,Freemium,False,7,5,0,134,5.7,Viral,2023-05-09,Tuesday,19,5,2023,2
+967,AutoCloud,2023-09-15 19:32:34,7,113,False,0,.com,Free,False,3,0,0,56,1.7999999999999998,Medium,2023-09-15,Friday,19,9,2023,3
+968,PulseSmart,2024-08-22 19:32:34,5,120,False,2,.io,Free,False,0,0,0,0,0.0,Low,2024-08-22,Thursday,19,8,2024,3
+969,NeoData,2025-02-13 19:32:34,8,67,False,5,.ai,Paid,False,2,0,0,38,1.2,Medium,2025-02-13,Thursday,19,2,2025,1
+970,HyperInsight,2024-02-12 19:32:34,4,75,True,8,.tech,Free Trial,False,10,5,0,209,7.5,Viral,2024-02-12,Monday,19,2,2024,1
+971,AutoQuick,2023-07-27 19:32:34,2,70,False,1,.tech,Free,False,2,1,0,34,1.5,Medium,2023-07-27,Thursday,19,7,2023,3
+972,Smart,2023-04-23 19:32:34,11,142,False,10,.ai,Free Trial,False,4,5,0,73,3.9,High,2023-04-23,Sunday,19,4,2023,2
+973,MegaTech,2023-10-05 19:32:34,12,96,False,0,.app,Free Trial,False,1,0,0,18,0.6,Low,2023-10-05,Thursday,19,10,2023,4
+974,AppStream,2025-04-03 19:32:34,6,100,False,9,.com,Free Trial,False,11,10,5,224,10.1,Viral,2025-04-03,Thursday,19,4,2025,2
+975,PixelSync,2023-08-20 19:32:34,9,101,False,2,.io,Free,True,3,0,0,56,1.7999999999999998,Medium,2023-08-20,Sunday,19,8,2023,3
+976,TechWave,2023-05-18 19:32:34,1,78,False,3,.ai,Free Trial,False,24,3,0,463,15.299999999999999,Viral,2023-05-18,Thursday,19,5,2023,2
+977,SuperHub,2023-10-26 19:32:34,11,146,False,10,.io,Freemium,False,8,0,0,135,4.8,Viral,2023-10-26,Thursday,19,10,2023,4
+978,CloudSpark,2024-07-20 19:32:34,10,112,True,4,.co,Freemium,False,2,4,0,45,2.4,High,2024-07-20,Saturday,19,7,2024,3
+979,DevTech,2024-10-15 19:32:34,12,101,True,2,.tech,Free,False,16,9,4,329,12.7,Viral,2024-10-15,Tuesday,19,10,2024,4
+980,DeepWave,2024-01-23 19:32:34,7,66,False,9,.tech,Free,False,9,0,4,199,5.8,Viral,2024-01-23,Tuesday,19,1,2024,1
+981,CloudCode,2024-07-11 19:32:34,10,65,False,10,.ai,Paid,False,0,0,0,0,0.0,Low,2024-07-11,Thursday,19,7,2024,3
+982,DevApp,2024-01-08 19:32:34,9,90,False,1,.ai,Freemium,False,0,0,0,0,0.0,Low,2024-01-08,Monday,19,1,2024,1
+983,PulseScript,2024-03-04 19:32:34,10,79,True,1,.co,Free,True,9,3,3,196,6.599999999999999,Viral,2024-03-04,Monday,19,3,2024,1
+984,CodePro,2024-02-29 19:32:34,9,67,False,6,.app,Free,False,15,4,0,310,10.2,Viral,2024-02-29,Thursday,19,2,2024,1
+985,ProFlow,2024-12-11 19:32:34,10,88,False,8,.ai,Paid,False,11,9,0,212,9.299999999999999,Viral,2024-12-11,Wednesday,19,12,2024,4
+986,EasyConnect,2024-06-14 19:32:34,11,93,False,9,.tech,Free,True,7,3,0,156,5.1,Viral,2024-06-14,Friday,19,6,2024,2
+987,SuperApp,2023-11-25 19:32:34,3,104,False,1,.io,Free Trial,False,0,0,0,0,0.0,Low,2023-11-25,Saturday,19,11,2023,4
+988,HyperDev,2024-08-14 19:32:34,11,84,False,6,.com,Free,True,5,5,0,88,4.5,Viral,2024-08-14,Wednesday,19,8,2024,3
+989,TechQuick,2025-04-11 19:32:34,5,69,False,6,other,Free,False,3,0,0,55,1.7999999999999998,Medium,2025-04-11,Friday,19,4,2025,2
+990,Cloud,2023-05-17 19:32:34,8,70,False,10,.io,Freemium,False,6,0,0,118,3.5999999999999996,High,2023-05-17,Wednesday,19,5,2023,2
+991,EasyWave,2023-11-27 19:32:34,8,136,False,6,.app,Freemium,False,5,1,0,92,3.3,High,2023-11-27,Monday,19,11,2023,4
+992,SimpleBot,2024-05-17 19:32:34,4,62,False,2,.com,Freemium,False,0,0,0,0,0.0,Low,2024-05-17,Friday,19,5,2024,2
+993,MetaDev,2025-02-21 19:32:34,12,110,False,6,.io,Freemium,False,2,0,0,44,1.2,Medium,2025-02-21,Friday,19,2,2025,1
+994,AutoSpark,2024-06-05 19:32:34,11,115,False,0,.io,Open Source,False,3,0,0,63,1.7999999999999998,Medium,2024-06-05,Wednesday,19,6,2024,2
+995,DesignSpark,2024-07-03 19:32:34,11,96,True,9,.co,Freemium,True,8,2,0,152,5.3999999999999995,Viral,2024-07-03,Wednesday,19,7,2024,3
+996,ScriptLogic,2024-09-10 19:32:34,1,153,True,0,other,Free,False,2,2,0,39,1.7999999999999998,Medium,2024-09-10,Tuesday,19,9,2024,3
+997,Deploy,2024-03-16 19:32:34,1,115,False,4,.app,Freemium,False,0,0,0,0,0.0,Low,2024-03-16,Saturday,19,3,2024,1
+998,SmartCloud,2024-08-13 19:32:34,4,155,False,1,.tech,Free Trial,False,16,3,4,289,10.9,Viral,2024-08-13,Tuesday,19,8,2024,3
+999,Flow,2023-09-07 19:32:34,6,80,False,8,.co,Freemium,False,4,0,0,70,2.4,High,2023-09-07,Thursday,19,9,2023,3
+1000,SuperSpark,2023-10-11 19:32:34,8,80,True,6,.com,Free,False,18,6,0,338,12.599999999999998,Viral,2023-10-11,Wednesday,19,10,2023,4
