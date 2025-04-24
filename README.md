@@ -41,16 +41,22 @@ This project analyzes simulated Product Hunt data to identify optimal strategies
 
 ## 🛠️ Tools & Technologies Used
 
-Power BI: Created interactive dashboards and data visualizations
-SQL: Data cleaning and preprocessing
-Statistical Analysis: Identified correlation between product features and success metrics
-Data Visualization: Designed clear, actionable insights presentation
+**Power BI**: Created interactive dashboards and data visualizations
+
+**SQL**: Data cleaning and preprocessing
+
+**Statistical Analysis**: Identified correlation between product features and success metrics
+
+**Data Visualization**: Designed clear, actionable insights presentation
 
 ## 📁 Repository Structure
 
 `Dashboards/`: Power BI dashboard file and Visualization screenshots
+
 `Data/`: Simulated Product Hunt datasets (CSV)
+
 `SQL Queries/`: SQL for data preprocessing and analysis
+
 `Presentation/`: PowerPoint presentation of findings and recommendations
 
 📁 Download the full Power BI report (.pbix) from the `Dashboards/` folder to explore it on Power BI Desktop.
