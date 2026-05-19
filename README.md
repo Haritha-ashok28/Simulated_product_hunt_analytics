@@ -81,7 +81,8 @@ This analysis is based on simulated Product Hunt data, not actual platform data.
 If you found this project interesting, connect with me on [LinkedIn](www.linkedin.com/in/haritha-ashok)
 
 ## 🙋‍♀️ Author
-
+ 
 **Haritha Ashok**  
-Aspiring ** Product Analyst | Data Analyst | Business Analyst | Insights Analyst | AI Product Manager **  
-📧 haritha.works28299@gmail.com
+Data Analyst & aspiring Data Engineer | Building pipelines and turning data into decisions | SQL · Python · Snowflake · dbt  
+📧 harithaashok2899@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/haritha-ashok)
